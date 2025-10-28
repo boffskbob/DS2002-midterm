@@ -1,0 +1,7002 @@
+[
+  {
+    "CustomerID": 18790,
+    "ProductID": 422,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-01-26 08:12:29"
+  },
+  {
+    "CustomerID": 14011,
+    "ProductID": 386,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-02-13 15:44:41"
+  },
+  {
+    "CustomerID": 24360,
+    "ProductID": 872,
+    "Rating": 5,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-06-09 08:51:03"
+  },
+  {
+    "CustomerID": 28615,
+    "ProductID": 287,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-05-24 07:20:44"
+  },
+  {
+    "CustomerID": 10180,
+    "ProductID": 924,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-09-13 22:26:41"
+  },
+  {
+    "CustomerID": 3872,
+    "ProductID": 116,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-12-26 01:58:33"
+  },
+  {
+    "CustomerID": 27643,
+    "ProductID": 219,
+    "Rating": 3,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-06-08 10:29:13"
+  },
+  {
+    "CustomerID": 5990,
+    "ProductID": 142,
+    "Rating": 3,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-07-06 03:25:23"
+  },
+  {
+    "CustomerID": 28830,
+    "ProductID": 553,
+    "Rating": 3,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-04-06 01:50:59"
+  },
+  {
+    "CustomerID": 3182,
+    "ProductID": 324,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2003-10-26 10:23:39"
+  },
+  {
+    "CustomerID": 2584,
+    "ProductID": 838,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-02-16 04:32:29"
+  },
+  {
+    "CustomerID": 12181,
+    "ProductID": 12,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-06-02 21:45:26"
+  },
+  {
+    "CustomerID": 24021,
+    "ProductID": 163,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-11-21 19:11:09"
+  },
+  {
+    "CustomerID": 10394,
+    "ProductID": 726,
+    "Rating": 4,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-02-11 21:06:26"
+  },
+  {
+    "CustomerID": 14664,
+    "ProductID": 969,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-03-05 06:55:49"
+  },
+  {
+    "CustomerID": 18166,
+    "ProductID": 828,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-10-11 15:48:35"
+  },
+  {
+    "CustomerID": 22607,
+    "ProductID": 535,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-02-17 12:02:02"
+  },
+  {
+    "CustomerID": 22114,
+    "ProductID": 765,
+    "Rating": 2,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-12-10 03:24:23"
+  },
+  {
+    "CustomerID": 20481,
+    "ProductID": 912,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-01-28 03:10:38"
+  },
+  {
+    "CustomerID": 14330,
+    "ProductID": 133,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-04-04 15:06:21"
+  },
+  {
+    "CustomerID": 5350,
+    "ProductID": 117,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-02-24 17:25:03"
+  },
+  {
+    "CustomerID": 3814,
+    "ProductID": 642,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-04-02 02:40:28"
+  },
+  {
+    "CustomerID": 5388,
+    "ProductID": 887,
+    "Rating": 4,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-04-11 00:51:47"
+  },
+  {
+    "CustomerID": 24317,
+    "ProductID": 686,
+    "Rating": 3,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-09-20 16:36:49"
+  },
+  {
+    "CustomerID": 24201,
+    "ProductID": 662,
+    "Rating": 5,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-08-09 18:18:16"
+  },
+  {
+    "CustomerID": 24658,
+    "ProductID": 491,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-11-25 17:46:44"
+  },
+  {
+    "CustomerID": 3577,
+    "ProductID": 289,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-08-29 13:50:06"
+  },
+  {
+    "CustomerID": 26646,
+    "ProductID": 97,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-04-06 10:34:30"
+  },
+  {
+    "CustomerID": 27204,
+    "ProductID": 385,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-06-13 17:18:13"
+  },
+  {
+    "CustomerID": 24840,
+    "ProductID": 334,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-07-09 02:26:35"
+  },
+  {
+    "CustomerID": 15825,
+    "ProductID": 566,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2001-09-11 12:34:45"
+  },
+  {
+    "CustomerID": 22668,
+    "ProductID": 977,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-09-23 17:17:44"
+  },
+  {
+    "CustomerID": 21854,
+    "ProductID": 933,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-06-13 04:42:21"
+  },
+  {
+    "CustomerID": 5275,
+    "ProductID": 290,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-04-01 04:46:17"
+  },
+  {
+    "CustomerID": 16334,
+    "ProductID": 947,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-12-18 07:51:30"
+  },
+  {
+    "CustomerID": 5889,
+    "ProductID": 899,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2004-06-29 20:06:34"
+  },
+  {
+    "CustomerID": 27868,
+    "ProductID": 899,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-06-24 05:52:49"
+  },
+  {
+    "CustomerID": 26181,
+    "ProductID": 35,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-01-06 20:37:03"
+  },
+  {
+    "CustomerID": 28213,
+    "ProductID": 791,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-10-26 03:33:06"
+  },
+  {
+    "CustomerID": 25660,
+    "ProductID": 688,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-06-26 15:54:06"
+  },
+  {
+    "CustomerID": 14510,
+    "ProductID": 75,
+    "Rating": 2,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2001-10-08 01:25:59"
+  },
+  {
+    "CustomerID": 21950,
+    "ProductID": 833,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-05-17 17:43:42"
+  },
+  {
+    "CustomerID": 27700,
+    "ProductID": 683,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2004-01-06 18:28:01"
+  },
+  {
+    "CustomerID": 15002,
+    "ProductID": 97,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-06-19 13:41:31"
+  },
+  {
+    "CustomerID": 1236,
+    "ProductID": 929,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-02-19 14:06:09"
+  },
+  {
+    "CustomerID": 8751,
+    "ProductID": 798,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-02-14 07:30:59"
+  },
+  {
+    "CustomerID": 26504,
+    "ProductID": 437,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2004-01-04 17:23:51"
+  },
+  {
+    "CustomerID": 4729,
+    "ProductID": 239,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-06-08 20:33:18"
+  },
+  {
+    "CustomerID": 27330,
+    "ProductID": 286,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-03-01 11:48:58"
+  },
+  {
+    "CustomerID": 25539,
+    "ProductID": 185,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-06-22 05:53:57"
+  },
+  {
+    "CustomerID": 6777,
+    "ProductID": 563,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-06-12 17:09:06"
+  },
+  {
+    "CustomerID": 12198,
+    "ProductID": 374,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-01-22 16:47:59"
+  },
+  {
+    "CustomerID": 27550,
+    "ProductID": 10,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-09-21 08:45:46"
+  },
+  {
+    "CustomerID": 3755,
+    "ProductID": 828,
+    "Rating": 3,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-06-12 11:52:29"
+  },
+  {
+    "CustomerID": 29386,
+    "ProductID": 530,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2001-09-25 06:48:21"
+  },
+  {
+    "CustomerID": 1336,
+    "ProductID": 548,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2004-07-23 23:27:15"
+  },
+  {
+    "CustomerID": 23645,
+    "ProductID": 207,
+    "Rating": 4,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-03-15 19:10:10"
+  },
+  {
+    "CustomerID": 1620,
+    "ProductID": 371,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-08-08 06:41:50"
+  },
+  {
+    "CustomerID": 13847,
+    "ProductID": 804,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-06-19 15:32:08"
+  },
+  {
+    "CustomerID": 183,
+    "ProductID": 353,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-07-24 23:42:04"
+  },
+  {
+    "CustomerID": 21306,
+    "ProductID": 236,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2004-01-18 00:22:05"
+  },
+  {
+    "CustomerID": 18189,
+    "ProductID": 820,
+    "Rating": 2,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-11-02 01:18:30"
+  },
+  {
+    "CustomerID": 23600,
+    "ProductID": 904,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-01-08 04:27:18"
+  },
+  {
+    "CustomerID": 7824,
+    "ProductID": 654,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2004-03-02 01:11:28"
+  },
+  {
+    "CustomerID": 4070,
+    "ProductID": 318,
+    "Rating": 2,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-05-11 00:16:46"
+  },
+  {
+    "CustomerID": 16207,
+    "ProductID": 259,
+    "Rating": 2,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-02-28 09:35:45"
+  },
+  {
+    "CustomerID": 10367,
+    "ProductID": 492,
+    "Rating": 3,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-07-16 17:08:04"
+  },
+  {
+    "CustomerID": 25582,
+    "ProductID": 759,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-02-20 23:36:56"
+  },
+  {
+    "CustomerID": 8847,
+    "ProductID": 951,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-10-14 06:45:23"
+  },
+  {
+    "CustomerID": 20013,
+    "ProductID": 577,
+    "Rating": 5,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-06-30 14:39:20"
+  },
+  {
+    "CustomerID": 4549,
+    "ProductID": 168,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-04-14 14:58:12"
+  },
+  {
+    "CustomerID": 16104,
+    "ProductID": 977,
+    "Rating": 3,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2004-03-23 14:02:21"
+  },
+  {
+    "CustomerID": 23324,
+    "ProductID": 807,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-05-14 13:19:41"
+  },
+  {
+    "CustomerID": 27911,
+    "ProductID": 914,
+    "Rating": 4,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-08-10 08:25:00"
+  },
+  {
+    "CustomerID": 26149,
+    "ProductID": 978,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2001-10-18 07:32:54"
+  },
+  {
+    "CustomerID": 20236,
+    "ProductID": 444,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2003-10-26 17:18:50"
+  },
+  {
+    "CustomerID": 18983,
+    "ProductID": 264,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-05-20 05:13:16"
+  },
+  {
+    "CustomerID": 13811,
+    "ProductID": 108,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-04-27 10:45:54"
+  },
+  {
+    "CustomerID": 11851,
+    "ProductID": 513,
+    "Rating": 1,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-11-17 05:41:37"
+  },
+  {
+    "CustomerID": 21098,
+    "ProductID": 345,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-12-31 17:17:40"
+  },
+  {
+    "CustomerID": 25334,
+    "ProductID": 643,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-07-16 05:02:34"
+  },
+  {
+    "CustomerID": 11373,
+    "ProductID": 408,
+    "Rating": 5,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-01-24 08:33:21"
+  },
+  {
+    "CustomerID": 570,
+    "ProductID": 15,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-10-03 07:18:52"
+  },
+  {
+    "CustomerID": 16083,
+    "ProductID": 52,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2003-05-15 07:49:45"
+  },
+  {
+    "CustomerID": 5053,
+    "ProductID": 319,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-02-05 19:34:22"
+  },
+  {
+    "CustomerID": 11032,
+    "ProductID": 378,
+    "Rating": 3,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2002-07-03 03:00:19"
+  },
+  {
+    "CustomerID": 20507,
+    "ProductID": 596,
+    "Rating": 1,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-01-15 20:43:39"
+  },
+  {
+    "CustomerID": 3184,
+    "ProductID": 97,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-12-11 20:39:25"
+  },
+  {
+    "CustomerID": 11308,
+    "ProductID": 468,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-11-15 19:43:12"
+  },
+  {
+    "CustomerID": 3141,
+    "ProductID": 503,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-07-23 23:36:54"
+  },
+  {
+    "CustomerID": 27892,
+    "ProductID": 141,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-07-25 14:36:25"
+  },
+  {
+    "CustomerID": 7734,
+    "ProductID": 342,
+    "Rating": 1,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-01-25 10:46:16"
+  },
+  {
+    "CustomerID": 24802,
+    "ProductID": 779,
+    "Rating": 3,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-03-20 20:55:49"
+  },
+  {
+    "CustomerID": 10720,
+    "ProductID": 222,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-05-20 13:26:29"
+  },
+  {
+    "CustomerID": 1261,
+    "ProductID": 724,
+    "Rating": 4,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-09-09 00:55:59"
+  },
+  {
+    "CustomerID": 14761,
+    "ProductID": 647,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-04-23 15:56:51"
+  },
+  {
+    "CustomerID": 3708,
+    "ProductID": 816,
+    "Rating": 4,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-05-28 18:34:36"
+  },
+  {
+    "CustomerID": 1825,
+    "ProductID": 928,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-10-21 14:17:45"
+  },
+  {
+    "CustomerID": 22600,
+    "ProductID": 861,
+    "Rating": 2,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-10-27 15:05:29"
+  },
+  {
+    "CustomerID": 10230,
+    "ProductID": 14,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2004-02-05 10:39:01"
+  },
+  {
+    "CustomerID": 18696,
+    "ProductID": 272,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-10-29 17:26:15"
+  },
+  {
+    "CustomerID": 15082,
+    "ProductID": 857,
+    "Rating": 4,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-01-31 14:15:28"
+  },
+  {
+    "CustomerID": 13941,
+    "ProductID": 379,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-04-21 03:38:46"
+  },
+  {
+    "CustomerID": 8459,
+    "ProductID": 965,
+    "Rating": 3,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-06-18 16:27:57"
+  },
+  {
+    "CustomerID": 26233,
+    "ProductID": 954,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-09-10 19:23:07"
+  },
+  {
+    "CustomerID": 22371,
+    "ProductID": 572,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-01-19 11:25:52"
+  },
+  {
+    "CustomerID": 9241,
+    "ProductID": 732,
+    "Rating": 1,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-06-22 14:30:12"
+  },
+  {
+    "CustomerID": 23385,
+    "ProductID": 555,
+    "Rating": 3,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-03-15 08:03:19"
+  },
+  {
+    "CustomerID": 14728,
+    "ProductID": 475,
+    "Rating": 1,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-06-04 15:59:44"
+  },
+  {
+    "CustomerID": 23168,
+    "ProductID": 813,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-03-07 13:27:44"
+  },
+  {
+    "CustomerID": 9355,
+    "ProductID": 755,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2004-01-30 20:26:05"
+  },
+  {
+    "CustomerID": 13198,
+    "ProductID": 48,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-11-29 23:44:02"
+  },
+  {
+    "CustomerID": 15193,
+    "ProductID": 889,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-06-13 00:26:37"
+  },
+  {
+    "CustomerID": 16210,
+    "ProductID": 988,
+    "Rating": 3,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-07-20 00:49:13"
+  },
+  {
+    "CustomerID": 23165,
+    "ProductID": 837,
+    "Rating": 5,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-03-23 04:28:16"
+  },
+  {
+    "CustomerID": 12333,
+    "ProductID": 117,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-11-19 07:54:11"
+  },
+  {
+    "CustomerID": 17599,
+    "ProductID": 142,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-11-15 10:23:13"
+  },
+  {
+    "CustomerID": 1958,
+    "ProductID": 312,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-10-29 22:25:37"
+  },
+  {
+    "CustomerID": 3115,
+    "ProductID": 921,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-04-10 06:54:45"
+  },
+  {
+    "CustomerID": 6419,
+    "ProductID": 420,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-09-27 08:02:38"
+  },
+  {
+    "CustomerID": 189,
+    "ProductID": 646,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-06-14 13:59:19"
+  },
+  {
+    "CustomerID": 1991,
+    "ProductID": 564,
+    "Rating": 5,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-12-29 03:32:03"
+  },
+  {
+    "CustomerID": 2168,
+    "ProductID": 555,
+    "Rating": 5,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-03-26 20:28:18"
+  },
+  {
+    "CustomerID": 20666,
+    "ProductID": 935,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-10-23 11:11:53"
+  },
+  {
+    "CustomerID": 19522,
+    "ProductID": 79,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-05-23 10:23:48"
+  },
+  {
+    "CustomerID": 20221,
+    "ProductID": 998,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-06-14 15:00:40"
+  },
+  {
+    "CustomerID": 14859,
+    "ProductID": 340,
+    "Rating": 4,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2001-10-17 03:09:52"
+  },
+  {
+    "CustomerID": 28934,
+    "ProductID": 963,
+    "Rating": 4,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-06-16 12:53:09"
+  },
+  {
+    "CustomerID": 16400,
+    "ProductID": 814,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-03-26 08:02:42"
+  },
+  {
+    "CustomerID": 22309,
+    "ProductID": 594,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-06-12 14:51:03"
+  },
+  {
+    "CustomerID": 3952,
+    "ProductID": 382,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-04-06 13:10:53"
+  },
+  {
+    "CustomerID": 15155,
+    "ProductID": 1,
+    "Rating": 1,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-08-13 12:51:46"
+  },
+  {
+    "CustomerID": 28496,
+    "ProductID": 92,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2001-08-31 10:03:46"
+  },
+  {
+    "CustomerID": 4119,
+    "ProductID": 975,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-02-04 16:05:43"
+  },
+  {
+    "CustomerID": 17781,
+    "ProductID": 253,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-09-25 01:13:14"
+  },
+  {
+    "CustomerID": 610,
+    "ProductID": 460,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-12-05 21:43:23"
+  },
+  {
+    "CustomerID": 14200,
+    "ProductID": 60,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-11-29 03:01:07"
+  },
+  {
+    "CustomerID": 7799,
+    "ProductID": 350,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-11-18 10:16:40"
+  },
+  {
+    "CustomerID": 7306,
+    "ProductID": 460,
+    "Rating": 3,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-12-30 13:47:18"
+  },
+  {
+    "CustomerID": 24555,
+    "ProductID": 527,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-10-10 17:44:30"
+  },
+  {
+    "CustomerID": 16138,
+    "ProductID": 851,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-06-25 15:36:20"
+  },
+  {
+    "CustomerID": 11775,
+    "ProductID": 510,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-05-14 01:35:05"
+  },
+  {
+    "CustomerID": 14427,
+    "ProductID": 50,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-03-12 02:32:01"
+  },
+  {
+    "CustomerID": 27845,
+    "ProductID": 92,
+    "Rating": 1,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2004-02-14 01:00:22"
+  },
+  {
+    "CustomerID": 4790,
+    "ProductID": 282,
+    "Rating": 3,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-11-19 20:11:14"
+  },
+  {
+    "CustomerID": 11914,
+    "ProductID": 510,
+    "Rating": 1,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2001-08-11 16:01:29"
+  },
+  {
+    "CustomerID": 1035,
+    "ProductID": 538,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-04-16 02:42:37"
+  },
+  {
+    "CustomerID": 26353,
+    "ProductID": 101,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-06-14 03:02:47"
+  },
+  {
+    "CustomerID": 20862,
+    "ProductID": 245,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-02-04 07:14:10"
+  },
+  {
+    "CustomerID": 5408,
+    "ProductID": 348,
+    "Rating": 4,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-12-10 02:34:05"
+  },
+  {
+    "CustomerID": 14907,
+    "ProductID": 457,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-03-22 09:33:44"
+  },
+  {
+    "CustomerID": 18664,
+    "ProductID": 80,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-07-04 11:32:42"
+  },
+  {
+    "CustomerID": 16162,
+    "ProductID": 433,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-05-01 20:55:44"
+  },
+  {
+    "CustomerID": 18396,
+    "ProductID": 569,
+    "Rating": 2,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-09-12 10:47:15"
+  },
+  {
+    "CustomerID": 10429,
+    "ProductID": 656,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-09-01 17:11:05"
+  },
+  {
+    "CustomerID": 1918,
+    "ProductID": 59,
+    "Rating": 1,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-02-12 05:49:30"
+  },
+  {
+    "CustomerID": 24345,
+    "ProductID": 731,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-10-09 07:41:15"
+  },
+  {
+    "CustomerID": 25534,
+    "ProductID": 834,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-01-05 12:10:05"
+  },
+  {
+    "CustomerID": 16069,
+    "ProductID": 491,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-09-11 03:34:27"
+  },
+  {
+    "CustomerID": 18531,
+    "ProductID": 566,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2001-10-19 04:59:34"
+  },
+  {
+    "CustomerID": 13468,
+    "ProductID": 462,
+    "Rating": 1,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2001-09-29 20:59:47"
+  },
+  {
+    "CustomerID": 21594,
+    "ProductID": 45,
+    "Rating": 4,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-05-03 01:12:14"
+  },
+  {
+    "CustomerID": 4615,
+    "ProductID": 402,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-01-06 07:38:02"
+  },
+  {
+    "CustomerID": 11188,
+    "ProductID": 77,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-04-12 04:18:46"
+  },
+  {
+    "CustomerID": 7842,
+    "ProductID": 727,
+    "Rating": 5,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2001-11-18 17:35:25"
+  },
+  {
+    "CustomerID": 23183,
+    "ProductID": 550,
+    "Rating": 3,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-02-21 04:14:43"
+  },
+  {
+    "CustomerID": 17571,
+    "ProductID": 120,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-10-09 01:05:39"
+  },
+  {
+    "CustomerID": 22063,
+    "ProductID": 273,
+    "Rating": 4,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-07-04 09:31:49"
+  },
+  {
+    "CustomerID": 11810,
+    "ProductID": 680,
+    "Rating": 5,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-10-22 12:17:03"
+  },
+  {
+    "CustomerID": 3854,
+    "ProductID": 340,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-03-09 12:17:21"
+  },
+  {
+    "CustomerID": 29132,
+    "ProductID": 205,
+    "Rating": 3,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-04-07 03:31:45"
+  },
+  {
+    "CustomerID": 26789,
+    "ProductID": 461,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-11-15 18:17:59"
+  },
+  {
+    "CustomerID": 27450,
+    "ProductID": 331,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-03-10 01:04:17"
+  },
+  {
+    "CustomerID": 25686,
+    "ProductID": 408,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-01-06 04:40:07"
+  },
+  {
+    "CustomerID": 26545,
+    "ProductID": 336,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-07-08 18:56:48"
+  },
+  {
+    "CustomerID": 26353,
+    "ProductID": 549,
+    "Rating": 2,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-01-27 21:13:10"
+  },
+  {
+    "CustomerID": 17307,
+    "ProductID": 928,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-02-27 23:57:29"
+  },
+  {
+    "CustomerID": 20661,
+    "ProductID": 682,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2004-03-15 19:54:59"
+  },
+  {
+    "CustomerID": 26622,
+    "ProductID": 264,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2004-01-01 11:05:36"
+  },
+  {
+    "CustomerID": 7954,
+    "ProductID": 150,
+    "Rating": 5,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-12-06 22:01:39"
+  },
+  {
+    "CustomerID": 5205,
+    "ProductID": 917,
+    "Rating": 5,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-12-08 03:03:28"
+  },
+  {
+    "CustomerID": 24403,
+    "ProductID": 709,
+    "Rating": 2,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-12-12 09:32:34"
+  },
+  {
+    "CustomerID": 15681,
+    "ProductID": 415,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-04-17 16:34:44"
+  },
+  {
+    "CustomerID": 11302,
+    "ProductID": 203,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-11-01 03:23:36"
+  },
+  {
+    "CustomerID": 7438,
+    "ProductID": 644,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2003-10-05 15:50:43"
+  },
+  {
+    "CustomerID": 12633,
+    "ProductID": 939,
+    "Rating": 1,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2001-07-24 11:18:47"
+  },
+  {
+    "CustomerID": 14755,
+    "ProductID": 326,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-03-17 02:20:24"
+  },
+  {
+    "CustomerID": 12513,
+    "ProductID": 483,
+    "Rating": 3,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-08-04 00:20:44"
+  },
+  {
+    "CustomerID": 27573,
+    "ProductID": 29,
+    "Rating": 2,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-04-19 16:30:52"
+  },
+  {
+    "CustomerID": 18530,
+    "ProductID": 668,
+    "Rating": 5,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-01-12 04:59:47"
+  },
+  {
+    "CustomerID": 11189,
+    "ProductID": 106,
+    "Rating": 2,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2003-06-14 02:56:59"
+  },
+  {
+    "CustomerID": 22172,
+    "ProductID": 742,
+    "Rating": 4,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-07-19 16:52:55"
+  },
+  {
+    "CustomerID": 11543,
+    "ProductID": 948,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-06-04 09:49:46"
+  },
+  {
+    "CustomerID": 861,
+    "ProductID": 566,
+    "Rating": 1,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-02-06 08:34:15"
+  },
+  {
+    "CustomerID": 8375,
+    "ProductID": 537,
+    "Rating": 5,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2004-02-01 01:11:41"
+  },
+  {
+    "CustomerID": 7997,
+    "ProductID": 121,
+    "Rating": 2,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-04-19 04:03:12"
+  },
+  {
+    "CustomerID": 25516,
+    "ProductID": 164,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-07-09 04:43:17"
+  },
+  {
+    "CustomerID": 20020,
+    "ProductID": 204,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-09-19 08:17:12"
+  },
+  {
+    "CustomerID": 10168,
+    "ProductID": 664,
+    "Rating": 1,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-08-12 06:50:13"
+  },
+  {
+    "CustomerID": 27981,
+    "ProductID": 800,
+    "Rating": 1,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-11-01 05:36:35"
+  },
+  {
+    "CustomerID": 9598,
+    "ProductID": 450,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-05-22 11:02:08"
+  },
+  {
+    "CustomerID": 11924,
+    "ProductID": 951,
+    "Rating": 2,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-01-31 19:30:23"
+  },
+  {
+    "CustomerID": 14779,
+    "ProductID": 935,
+    "Rating": 2,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2001-07-30 20:31:10"
+  },
+  {
+    "CustomerID": 22312,
+    "ProductID": 860,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-12-27 17:54:11"
+  },
+  {
+    "CustomerID": 136,
+    "ProductID": 214,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-12-20 11:59:41"
+  },
+  {
+    "CustomerID": 21237,
+    "ProductID": 884,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2004-07-28 12:08:12"
+  },
+  {
+    "CustomerID": 21107,
+    "ProductID": 916,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-12-11 10:26:17"
+  },
+  {
+    "CustomerID": 8346,
+    "ProductID": 677,
+    "Rating": 3,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-11-18 03:27:25"
+  },
+  {
+    "CustomerID": 28896,
+    "ProductID": 140,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-02-13 07:32:21"
+  },
+  {
+    "CustomerID": 9200,
+    "ProductID": 435,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2004-06-08 20:01:05"
+  },
+  {
+    "CustomerID": 23370,
+    "ProductID": 555,
+    "Rating": 5,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-06-28 20:47:03"
+  },
+  {
+    "CustomerID": 6633,
+    "ProductID": 670,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-07-03 17:58:11"
+  },
+  {
+    "CustomerID": 26605,
+    "ProductID": 762,
+    "Rating": 1,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2004-02-15 06:47:57"
+  },
+  {
+    "CustomerID": 13996,
+    "ProductID": 766,
+    "Rating": 3,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-09-17 06:43:45"
+  },
+  {
+    "CustomerID": 29381,
+    "ProductID": 166,
+    "Rating": 2,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2001-10-07 00:12:01"
+  },
+  {
+    "CustomerID": 1185,
+    "ProductID": 716,
+    "Rating": 5,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-01-27 09:59:24"
+  },
+  {
+    "CustomerID": 12295,
+    "ProductID": 482,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-01-10 08:37:10"
+  },
+  {
+    "CustomerID": 22570,
+    "ProductID": 461,
+    "Rating": 4,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2004-03-03 15:28:22"
+  },
+  {
+    "CustomerID": 11926,
+    "ProductID": 429,
+    "Rating": 5,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-03-23 03:09:56"
+  },
+  {
+    "CustomerID": 25763,
+    "ProductID": 702,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2004-02-19 13:52:32"
+  },
+  {
+    "CustomerID": 25129,
+    "ProductID": 609,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-03-08 14:56:37"
+  },
+  {
+    "CustomerID": 6799,
+    "ProductID": 790,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-03-30 22:00:58"
+  },
+  {
+    "CustomerID": 21570,
+    "ProductID": 565,
+    "Rating": 1,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-02-22 18:08:05"
+  },
+  {
+    "CustomerID": 4968,
+    "ProductID": 708,
+    "Rating": 3,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-05-18 07:22:30"
+  },
+  {
+    "CustomerID": 2554,
+    "ProductID": 42,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-12-12 13:05:21"
+  },
+  {
+    "CustomerID": 16813,
+    "ProductID": 71,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-10-04 13:28:34"
+  },
+  {
+    "CustomerID": 14912,
+    "ProductID": 895,
+    "Rating": 5,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-11-02 22:18:20"
+  },
+  {
+    "CustomerID": 1020,
+    "ProductID": 736,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-12-22 09:09:45"
+  },
+  {
+    "CustomerID": 21150,
+    "ProductID": 293,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-04-09 19:30:52"
+  },
+  {
+    "CustomerID": 22310,
+    "ProductID": 596,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-11-21 22:23:56"
+  },
+  {
+    "CustomerID": 23635,
+    "ProductID": 95,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2004-04-10 06:21:20"
+  },
+  {
+    "CustomerID": 24555,
+    "ProductID": 467,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-11-05 07:49:04"
+  },
+  {
+    "CustomerID": 13142,
+    "ProductID": 590,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-07-06 15:19:33"
+  },
+  {
+    "CustomerID": 23472,
+    "ProductID": 732,
+    "Rating": 2,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-05-02 07:01:11"
+  },
+  {
+    "CustomerID": 17008,
+    "ProductID": 847,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-07-03 15:37:47"
+  },
+  {
+    "CustomerID": 8780,
+    "ProductID": 715,
+    "Rating": 1,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-08-28 02:40:58"
+  },
+  {
+    "CustomerID": 6905,
+    "ProductID": 78,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-11-25 00:55:37"
+  },
+  {
+    "CustomerID": 23639,
+    "ProductID": 656,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2001-07-02 00:44:11"
+  },
+  {
+    "CustomerID": 18575,
+    "ProductID": 79,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-12-17 00:40:34"
+  },
+  {
+    "CustomerID": 3700,
+    "ProductID": 690,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-06-04 15:01:16"
+  },
+  {
+    "CustomerID": 25900,
+    "ProductID": 698,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2004-06-25 09:31:04"
+  },
+  {
+    "CustomerID": 1279,
+    "ProductID": 25,
+    "Rating": 1,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2002-02-18 01:44:53"
+  },
+  {
+    "CustomerID": 2908,
+    "ProductID": 343,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-12-08 00:07:37"
+  },
+  {
+    "CustomerID": 27579,
+    "ProductID": 71,
+    "Rating": 1,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-12-18 16:18:32"
+  },
+  {
+    "CustomerID": 26448,
+    "ProductID": 295,
+    "Rating": 2,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-01-17 07:26:40"
+  },
+  {
+    "CustomerID": 3922,
+    "ProductID": 412,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-07-24 05:47:57"
+  },
+  {
+    "CustomerID": 7822,
+    "ProductID": 121,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-05-13 22:33:35"
+  },
+  {
+    "CustomerID": 29186,
+    "ProductID": 18,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-09-11 00:15:01"
+  },
+  {
+    "CustomerID": 6994,
+    "ProductID": 516,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-06-14 01:51:44"
+  },
+  {
+    "CustomerID": 23283,
+    "ProductID": 875,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-09-29 02:07:10"
+  },
+  {
+    "CustomerID": 7050,
+    "ProductID": 578,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-06-19 03:48:07"
+  },
+  {
+    "CustomerID": 18616,
+    "ProductID": 270,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2004-05-26 23:34:53"
+  },
+  {
+    "CustomerID": 26085,
+    "ProductID": 166,
+    "Rating": 4,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-10-08 21:05:58"
+  },
+  {
+    "CustomerID": 22299,
+    "ProductID": 738,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-07-26 06:11:04"
+  },
+  {
+    "CustomerID": 714,
+    "ProductID": 72,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2001-10-21 19:39:53"
+  },
+  {
+    "CustomerID": 1742,
+    "ProductID": 518,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-11-13 21:58:17"
+  },
+  {
+    "CustomerID": 15262,
+    "ProductID": 408,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-08-03 11:51:31"
+  },
+  {
+    "CustomerID": 8385,
+    "ProductID": 986,
+    "Rating": 4,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2002-07-05 08:04:18"
+  },
+  {
+    "CustomerID": 29106,
+    "ProductID": 792,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-12-17 02:41:32"
+  },
+  {
+    "CustomerID": 14643,
+    "ProductID": 319,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-11-23 06:40:38"
+  },
+  {
+    "CustomerID": 27785,
+    "ProductID": 28,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-02-25 05:55:44"
+  },
+  {
+    "CustomerID": 9893,
+    "ProductID": 193,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-09-24 18:42:44"
+  },
+  {
+    "CustomerID": 21316,
+    "ProductID": 29,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-03-29 14:59:07"
+  },
+  {
+    "CustomerID": 25453,
+    "ProductID": 22,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-12-03 15:51:29"
+  },
+  {
+    "CustomerID": 20756,
+    "ProductID": 170,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-03-20 11:05:28"
+  },
+  {
+    "CustomerID": 4510,
+    "ProductID": 358,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-07-15 19:44:36"
+  },
+  {
+    "CustomerID": 13,
+    "ProductID": 54,
+    "Rating": 5,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2004-02-07 03:16:21"
+  },
+  {
+    "CustomerID": 7814,
+    "ProductID": 378,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-10-13 15:25:43"
+  },
+  {
+    "CustomerID": 1243,
+    "ProductID": 46,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-09-19 00:17:22"
+  },
+  {
+    "CustomerID": 13205,
+    "ProductID": 972,
+    "Rating": 1,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-05-05 10:59:28"
+  },
+  {
+    "CustomerID": 9768,
+    "ProductID": 443,
+    "Rating": 4,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-04-13 23:39:28"
+  },
+  {
+    "CustomerID": 14151,
+    "ProductID": 519,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2001-10-12 18:45:00"
+  },
+  {
+    "CustomerID": 23562,
+    "ProductID": 25,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-05-23 15:10:46"
+  },
+  {
+    "CustomerID": 27257,
+    "ProductID": 394,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-08-12 04:36:45"
+  },
+  {
+    "CustomerID": 26200,
+    "ProductID": 425,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2003-03-01 09:02:26"
+  },
+  {
+    "CustomerID": 5653,
+    "ProductID": 874,
+    "Rating": 2,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-07-28 02:17:17"
+  },
+  {
+    "CustomerID": 8291,
+    "ProductID": 173,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-03-30 11:53:23"
+  },
+  {
+    "CustomerID": 17529,
+    "ProductID": 283,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-06-21 04:01:09"
+  },
+  {
+    "CustomerID": 19686,
+    "ProductID": 524,
+    "Rating": 2,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-09-26 18:58:39"
+  },
+  {
+    "CustomerID": 26168,
+    "ProductID": 592,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-02-09 14:55:03"
+  },
+  {
+    "CustomerID": 15614,
+    "ProductID": 308,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2004-02-02 16:29:55"
+  },
+  {
+    "CustomerID": 22423,
+    "ProductID": 724,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-08-12 20:05:56"
+  },
+  {
+    "CustomerID": 5810,
+    "ProductID": 427,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-09-02 11:26:17"
+  },
+  {
+    "CustomerID": 9124,
+    "ProductID": 642,
+    "Rating": 1,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2001-11-22 23:02:07"
+  },
+  {
+    "CustomerID": 27917,
+    "ProductID": 971,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-01-17 16:19:02"
+  },
+  {
+    "CustomerID": 8561,
+    "ProductID": 588,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-10-22 20:09:01"
+  },
+  {
+    "CustomerID": 379,
+    "ProductID": 486,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-02-13 22:10:27"
+  },
+  {
+    "CustomerID": 27821,
+    "ProductID": 164,
+    "Rating": 3,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2001-08-29 17:29:20"
+  },
+  {
+    "CustomerID": 1533,
+    "ProductID": 835,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-02-11 14:09:03"
+  },
+  {
+    "CustomerID": 4318,
+    "ProductID": 123,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-12-09 09:10:47"
+  },
+  {
+    "CustomerID": 905,
+    "ProductID": 648,
+    "Rating": 5,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-11-04 11:49:46"
+  },
+  {
+    "CustomerID": 28437,
+    "ProductID": 473,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2001-10-13 19:18:03"
+  },
+  {
+    "CustomerID": 26161,
+    "ProductID": 273,
+    "Rating": 5,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-07-27 16:50:46"
+  },
+  {
+    "CustomerID": 25124,
+    "ProductID": 64,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-02-05 06:51:37"
+  },
+  {
+    "CustomerID": 18665,
+    "ProductID": 744,
+    "Rating": 5,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-06-28 23:47:51"
+  },
+  {
+    "CustomerID": 15451,
+    "ProductID": 304,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-07-15 18:46:38"
+  },
+  {
+    "CustomerID": 89,
+    "ProductID": 87,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-07-09 03:15:25"
+  },
+  {
+    "CustomerID": 24691,
+    "ProductID": 757,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-04-13 21:01:01"
+  },
+  {
+    "CustomerID": 26561,
+    "ProductID": 585,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2001-10-04 08:39:29"
+  },
+  {
+    "CustomerID": 13183,
+    "ProductID": 413,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2003-01-23 01:16:38"
+  },
+  {
+    "CustomerID": 29134,
+    "ProductID": 218,
+    "Rating": 5,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2004-07-02 19:43:01"
+  },
+  {
+    "CustomerID": 15539,
+    "ProductID": 639,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-05-31 05:37:54"
+  },
+  {
+    "CustomerID": 16925,
+    "ProductID": 546,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-01-07 22:50:10"
+  },
+  {
+    "CustomerID": 27089,
+    "ProductID": 16,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-11-20 15:42:23"
+  },
+  {
+    "CustomerID": 25536,
+    "ProductID": 878,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-06-12 22:32:35"
+  },
+  {
+    "CustomerID": 25908,
+    "ProductID": 300,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2004-02-03 22:00:42"
+  },
+  {
+    "CustomerID": 19806,
+    "ProductID": 75,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-08-27 06:19:46"
+  },
+  {
+    "CustomerID": 25352,
+    "ProductID": 345,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-06-25 08:13:41"
+  },
+  {
+    "CustomerID": 10631,
+    "ProductID": 52,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-08-20 00:39:01"
+  },
+  {
+    "CustomerID": 25049,
+    "ProductID": 20,
+    "Rating": 2,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2001-12-25 11:19:13"
+  },
+  {
+    "CustomerID": 8175,
+    "ProductID": 513,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2004-05-17 21:42:42"
+  },
+  {
+    "CustomerID": 20959,
+    "ProductID": 329,
+    "Rating": 4,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2002-08-10 21:01:42"
+  },
+  {
+    "CustomerID": 2157,
+    "ProductID": 552,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-04-17 07:59:01"
+  },
+  {
+    "CustomerID": 19655,
+    "ProductID": 942,
+    "Rating": 5,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-01-07 15:06:13"
+  },
+  {
+    "CustomerID": 11860,
+    "ProductID": 649,
+    "Rating": 3,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-06-05 22:33:27"
+  },
+  {
+    "CustomerID": 6323,
+    "ProductID": 962,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-12-05 00:21:12"
+  },
+  {
+    "CustomerID": 12274,
+    "ProductID": 34,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-11-22 11:48:53"
+  },
+  {
+    "CustomerID": 2567,
+    "ProductID": 89,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2001-07-02 00:53:39"
+  },
+  {
+    "CustomerID": 13627,
+    "ProductID": 923,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-08-05 14:54:52"
+  },
+  {
+    "CustomerID": 4234,
+    "ProductID": 822,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-05-22 04:46:07"
+  },
+  {
+    "CustomerID": 15396,
+    "ProductID": 626,
+    "Rating": 3,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-05-27 01:30:16"
+  },
+  {
+    "CustomerID": 165,
+    "ProductID": 464,
+    "Rating": 4,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2004-07-11 20:50:15"
+  },
+  {
+    "CustomerID": 22024,
+    "ProductID": 725,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-04-13 09:29:26"
+  },
+  {
+    "CustomerID": 8261,
+    "ProductID": 549,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-05-27 06:36:32"
+  },
+  {
+    "CustomerID": 18509,
+    "ProductID": 819,
+    "Rating": 2,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-12-19 10:19:37"
+  },
+  {
+    "CustomerID": 19741,
+    "ProductID": 599,
+    "Rating": 3,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-10-28 00:59:59"
+  },
+  {
+    "CustomerID": 1064,
+    "ProductID": 949,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-06-29 23:59:28"
+  },
+  {
+    "CustomerID": 6009,
+    "ProductID": 392,
+    "Rating": 3,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2001-12-05 07:22:29"
+  },
+  {
+    "CustomerID": 11839,
+    "ProductID": 707,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-08-15 04:27:51"
+  },
+  {
+    "CustomerID": 1379,
+    "ProductID": 208,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-06-14 06:55:41"
+  },
+  {
+    "CustomerID": 13305,
+    "ProductID": 33,
+    "Rating": 2,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-12-28 20:50:35"
+  },
+  {
+    "CustomerID": 26975,
+    "ProductID": 367,
+    "Rating": 5,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-03-22 16:08:10"
+  },
+  {
+    "CustomerID": 4949,
+    "ProductID": 636,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-04-17 01:41:36"
+  },
+  {
+    "CustomerID": 25329,
+    "ProductID": 977,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-06-02 05:14:53"
+  },
+  {
+    "CustomerID": 16782,
+    "ProductID": 511,
+    "Rating": 3,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-07-05 20:57:00"
+  },
+  {
+    "CustomerID": 2101,
+    "ProductID": 832,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-12-01 19:37:38"
+  },
+  {
+    "CustomerID": 14582,
+    "ProductID": 246,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-07-03 09:06:03"
+  },
+  {
+    "CustomerID": 18119,
+    "ProductID": 709,
+    "Rating": 2,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2004-03-26 06:06:16"
+  },
+  {
+    "CustomerID": 23409,
+    "ProductID": 476,
+    "Rating": 1,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-03-13 07:31:45"
+  },
+  {
+    "CustomerID": 8114,
+    "ProductID": 798,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-07-06 05:13:32"
+  },
+  {
+    "CustomerID": 14665,
+    "ProductID": 192,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-04-19 20:12:15"
+  },
+  {
+    "CustomerID": 5594,
+    "ProductID": 109,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2001-10-17 09:44:28"
+  },
+  {
+    "CustomerID": 16584,
+    "ProductID": 255,
+    "Rating": 5,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-04-05 20:50:36"
+  },
+  {
+    "CustomerID": 608,
+    "ProductID": 64,
+    "Rating": 1,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2002-10-24 04:01:49"
+  },
+  {
+    "CustomerID": 6613,
+    "ProductID": 968,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-05-04 13:30:20"
+  },
+  {
+    "CustomerID": 6987,
+    "ProductID": 606,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-09-29 11:58:07"
+  },
+  {
+    "CustomerID": 22833,
+    "ProductID": 953,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-07-18 07:35:47"
+  },
+  {
+    "CustomerID": 19058,
+    "ProductID": 707,
+    "Rating": 4,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-02-21 17:54:56"
+  },
+  {
+    "CustomerID": 8673,
+    "ProductID": 308,
+    "Rating": 2,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-02-17 13:10:06"
+  },
+  {
+    "CustomerID": 28167,
+    "ProductID": 323,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-09-13 23:24:57"
+  },
+  {
+    "CustomerID": 10358,
+    "ProductID": 278,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-12-24 06:29:34"
+  },
+  {
+    "CustomerID": 23904,
+    "ProductID": 905,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-01-15 18:37:33"
+  },
+  {
+    "CustomerID": 25215,
+    "ProductID": 240,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-01-14 09:58:39"
+  },
+  {
+    "CustomerID": 8409,
+    "ProductID": 968,
+    "Rating": 3,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-06-07 05:57:04"
+  },
+  {
+    "CustomerID": 7998,
+    "ProductID": 778,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-02-24 17:42:01"
+  },
+  {
+    "CustomerID": 4846,
+    "ProductID": 769,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-10-02 15:44:55"
+  },
+  {
+    "CustomerID": 28377,
+    "ProductID": 56,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-02-20 08:30:54"
+  },
+  {
+    "CustomerID": 5159,
+    "ProductID": 668,
+    "Rating": 4,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-11-23 13:17:28"
+  },
+  {
+    "CustomerID": 7145,
+    "ProductID": 286,
+    "Rating": 1,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-07-17 08:58:00"
+  },
+  {
+    "CustomerID": 3415,
+    "ProductID": 296,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-02-24 01:50:56"
+  },
+  {
+    "CustomerID": 9528,
+    "ProductID": 823,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-06-20 22:23:20"
+  },
+  {
+    "CustomerID": 21239,
+    "ProductID": 368,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-03-08 17:03:20"
+  },
+  {
+    "CustomerID": 28860,
+    "ProductID": 792,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-07-30 05:36:04"
+  },
+  {
+    "CustomerID": 26517,
+    "ProductID": 274,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-01-21 00:20:35"
+  },
+  {
+    "CustomerID": 17229,
+    "ProductID": 944,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-02-01 08:09:00"
+  },
+  {
+    "CustomerID": 4051,
+    "ProductID": 943,
+    "Rating": 2,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-04-10 14:38:53"
+  },
+  {
+    "CustomerID": 22966,
+    "ProductID": 700,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-12-09 17:38:47"
+  },
+  {
+    "CustomerID": 3611,
+    "ProductID": 654,
+    "Rating": 5,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2001-09-21 08:14:40"
+  },
+  {
+    "CustomerID": 8325,
+    "ProductID": 545,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2001-11-28 21:50:18"
+  },
+  {
+    "CustomerID": 28269,
+    "ProductID": 879,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2001-07-16 02:12:37"
+  },
+  {
+    "CustomerID": 5713,
+    "ProductID": 460,
+    "Rating": 4,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2001-12-12 03:35:35"
+  },
+  {
+    "CustomerID": 24676,
+    "ProductID": 804,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-07-09 07:19:17"
+  },
+  {
+    "CustomerID": 29215,
+    "ProductID": 305,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-06-07 07:40:35"
+  },
+  {
+    "CustomerID": 381,
+    "ProductID": 109,
+    "Rating": 1,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2004-06-05 22:41:08"
+  },
+  {
+    "CustomerID": 26912,
+    "ProductID": 922,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2001-10-12 09:14:44"
+  },
+  {
+    "CustomerID": 5883,
+    "ProductID": 353,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-05-23 06:53:36"
+  },
+  {
+    "CustomerID": 21358,
+    "ProductID": 314,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-06-15 12:35:21"
+  },
+  {
+    "CustomerID": 1045,
+    "ProductID": 999,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-04-08 10:52:15"
+  },
+  {
+    "CustomerID": 10464,
+    "ProductID": 993,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-09-26 12:22:13"
+  },
+  {
+    "CustomerID": 6797,
+    "ProductID": 58,
+    "Rating": 3,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-05-01 17:04:47"
+  },
+  {
+    "CustomerID": 3284,
+    "ProductID": 254,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-11-19 08:36:52"
+  },
+  {
+    "CustomerID": 16229,
+    "ProductID": 35,
+    "Rating": 5,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-11-25 05:22:47"
+  },
+  {
+    "CustomerID": 797,
+    "ProductID": 695,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-03-26 10:02:42"
+  },
+  {
+    "CustomerID": 1109,
+    "ProductID": 414,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-04-08 08:31:45"
+  },
+  {
+    "CustomerID": 18940,
+    "ProductID": 930,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-12-14 11:15:07"
+  },
+  {
+    "CustomerID": 20491,
+    "ProductID": 540,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-04-06 10:01:55"
+  },
+  {
+    "CustomerID": 8812,
+    "ProductID": 309,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-08-09 04:36:27"
+  },
+  {
+    "CustomerID": 17191,
+    "ProductID": 603,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2003-11-29 23:19:31"
+  },
+  {
+    "CustomerID": 25620,
+    "ProductID": 708,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-04-24 11:25:37"
+  },
+  {
+    "CustomerID": 22217,
+    "ProductID": 944,
+    "Rating": 3,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-12-26 03:40:21"
+  },
+  {
+    "CustomerID": 14244,
+    "ProductID": 239,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-12-04 15:12:19"
+  },
+  {
+    "CustomerID": 2027,
+    "ProductID": 57,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-06-29 18:33:02"
+  },
+  {
+    "CustomerID": 29279,
+    "ProductID": 74,
+    "Rating": 3,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-11-23 23:43:27"
+  },
+  {
+    "CustomerID": 6344,
+    "ProductID": 973,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-07-11 16:30:20"
+  },
+  {
+    "CustomerID": 12959,
+    "ProductID": 52,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-03-26 17:46:30"
+  },
+  {
+    "CustomerID": 15931,
+    "ProductID": 479,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2004-05-26 09:32:13"
+  },
+  {
+    "CustomerID": 23982,
+    "ProductID": 60,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-11-08 19:57:02"
+  },
+  {
+    "CustomerID": 22025,
+    "ProductID": 336,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-05-17 04:25:02"
+  },
+  {
+    "CustomerID": 28084,
+    "ProductID": 833,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-09-14 06:26:45"
+  },
+  {
+    "CustomerID": 8627,
+    "ProductID": 531,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-02-12 03:21:03"
+  },
+  {
+    "CustomerID": 12783,
+    "ProductID": 117,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-05-31 22:42:43"
+  },
+  {
+    "CustomerID": 13147,
+    "ProductID": 839,
+    "Rating": 1,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-10-07 00:09:51"
+  },
+  {
+    "CustomerID": 12810,
+    "ProductID": 984,
+    "Rating": 3,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-11-20 16:14:00"
+  },
+  {
+    "CustomerID": 14226,
+    "ProductID": 244,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2001-12-04 22:37:16"
+  },
+  {
+    "CustomerID": 25284,
+    "ProductID": 963,
+    "Rating": 3,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-07-04 10:47:08"
+  },
+  {
+    "CustomerID": 13611,
+    "ProductID": 276,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-01-11 05:26:55"
+  },
+  {
+    "CustomerID": 26357,
+    "ProductID": 668,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-11-30 05:50:49"
+  },
+  {
+    "CustomerID": 9445,
+    "ProductID": 402,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-03-14 17:32:27"
+  },
+  {
+    "CustomerID": 6206,
+    "ProductID": 373,
+    "Rating": 5,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-02-08 06:48:28"
+  },
+  {
+    "CustomerID": 22145,
+    "ProductID": 291,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-09-21 05:49:09"
+  },
+  {
+    "CustomerID": 13007,
+    "ProductID": 414,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-03-19 02:20:25"
+  },
+  {
+    "CustomerID": 3782,
+    "ProductID": 923,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-06-24 05:20:12"
+  },
+  {
+    "CustomerID": 1132,
+    "ProductID": 203,
+    "Rating": 4,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-06-15 11:21:00"
+  },
+  {
+    "CustomerID": 21219,
+    "ProductID": 144,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-01-24 19:15:09"
+  },
+  {
+    "CustomerID": 10239,
+    "ProductID": 514,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-11-28 01:07:38"
+  },
+  {
+    "CustomerID": 27483,
+    "ProductID": 756,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-04-01 01:16:24"
+  },
+  {
+    "CustomerID": 26441,
+    "ProductID": 163,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-08-08 18:51:26"
+  },
+  {
+    "CustomerID": 27060,
+    "ProductID": 788,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-01-07 01:42:50"
+  },
+  {
+    "CustomerID": 20129,
+    "ProductID": 937,
+    "Rating": 2,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-04-18 14:00:47"
+  },
+  {
+    "CustomerID": 8533,
+    "ProductID": 519,
+    "Rating": 2,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-07-08 03:54:41"
+  },
+  {
+    "CustomerID": 24893,
+    "ProductID": 21,
+    "Rating": 4,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2003-02-11 11:52:28"
+  },
+  {
+    "CustomerID": 3568,
+    "ProductID": 273,
+    "Rating": 2,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-04-10 19:14:23"
+  },
+  {
+    "CustomerID": 5212,
+    "ProductID": 24,
+    "Rating": 1,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-11-17 10:29:25"
+  },
+  {
+    "CustomerID": 19561,
+    "ProductID": 522,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2004-04-03 01:57:37"
+  },
+  {
+    "CustomerID": 25325,
+    "ProductID": 185,
+    "Rating": 3,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-11-04 10:09:34"
+  },
+  {
+    "CustomerID": 14559,
+    "ProductID": 96,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2001-09-11 22:30:16"
+  },
+  {
+    "CustomerID": 321,
+    "ProductID": 799,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-03-03 11:10:31"
+  },
+  {
+    "CustomerID": 25798,
+    "ProductID": 58,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-03-06 08:02:27"
+  },
+  {
+    "CustomerID": 11996,
+    "ProductID": 939,
+    "Rating": 4,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2001-10-28 19:39:39"
+  },
+  {
+    "CustomerID": 6731,
+    "ProductID": 245,
+    "Rating": 3,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-08-20 02:52:00"
+  },
+  {
+    "CustomerID": 15883,
+    "ProductID": 740,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-12-04 08:53:39"
+  },
+  {
+    "CustomerID": 2122,
+    "ProductID": 473,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-06-12 17:40:43"
+  },
+  {
+    "CustomerID": 23627,
+    "ProductID": 639,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-07-30 06:55:51"
+  },
+  {
+    "CustomerID": 23123,
+    "ProductID": 736,
+    "Rating": 5,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-02-09 06:05:11"
+  },
+  {
+    "CustomerID": 8701,
+    "ProductID": 975,
+    "Rating": 2,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-07-25 07:42:54"
+  },
+  {
+    "CustomerID": 13531,
+    "ProductID": 616,
+    "Rating": 3,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2001-07-23 23:30:59"
+  },
+  {
+    "CustomerID": 17024,
+    "ProductID": 188,
+    "Rating": 2,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-07-04 14:15:31"
+  },
+  {
+    "CustomerID": 19761,
+    "ProductID": 950,
+    "Rating": 3,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2003-02-22 20:41:39"
+  },
+  {
+    "CustomerID": 15569,
+    "ProductID": 50,
+    "Rating": 2,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2004-02-19 00:53:04"
+  },
+  {
+    "CustomerID": 34,
+    "ProductID": 563,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2004-01-08 05:20:01"
+  },
+  {
+    "CustomerID": 4891,
+    "ProductID": 821,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-05-01 04:56:37"
+  },
+  {
+    "CustomerID": 18955,
+    "ProductID": 200,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-12-02 23:36:21"
+  },
+  {
+    "CustomerID": 23841,
+    "ProductID": 508,
+    "Rating": 3,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2001-09-21 06:09:19"
+  },
+  {
+    "CustomerID": 7581,
+    "ProductID": 60,
+    "Rating": 5,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2004-07-16 18:59:31"
+  },
+  {
+    "CustomerID": 17693,
+    "ProductID": 900,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-02-14 19:52:20"
+  },
+  {
+    "CustomerID": 24258,
+    "ProductID": 832,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-05-15 09:35:04"
+  },
+  {
+    "CustomerID": 13297,
+    "ProductID": 257,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-09-11 17:51:06"
+  },
+  {
+    "CustomerID": 16966,
+    "ProductID": 500,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-11-22 02:14:12"
+  },
+  {
+    "CustomerID": 5724,
+    "ProductID": 144,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-04-20 18:02:39"
+  },
+  {
+    "CustomerID": 26152,
+    "ProductID": 535,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-01-26 04:43:50"
+  },
+  {
+    "CustomerID": 14415,
+    "ProductID": 280,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-12-22 19:37:51"
+  },
+  {
+    "CustomerID": 2428,
+    "ProductID": 892,
+    "Rating": 4,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-06-22 00:32:09"
+  },
+  {
+    "CustomerID": 6958,
+    "ProductID": 719,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-10-25 09:27:19"
+  },
+  {
+    "CustomerID": 3595,
+    "ProductID": 579,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2001-11-30 21:15:00"
+  },
+  {
+    "CustomerID": 9459,
+    "ProductID": 138,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-08-20 05:31:51"
+  },
+  {
+    "CustomerID": 26640,
+    "ProductID": 153,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-10-12 00:27:05"
+  },
+  {
+    "CustomerID": 15127,
+    "ProductID": 659,
+    "Rating": 5,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2001-12-03 07:39:53"
+  },
+  {
+    "CustomerID": 27741,
+    "ProductID": 517,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-07-25 11:13:25"
+  },
+  {
+    "CustomerID": 26900,
+    "ProductID": 602,
+    "Rating": 4,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2004-06-12 03:57:00"
+  },
+  {
+    "CustomerID": 9271,
+    "ProductID": 619,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-10-01 20:33:41"
+  },
+  {
+    "CustomerID": 23705,
+    "ProductID": 219,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-12-06 11:50:43"
+  },
+  {
+    "CustomerID": 28437,
+    "ProductID": 625,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-05-18 02:06:12"
+  },
+  {
+    "CustomerID": 17000,
+    "ProductID": 373,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-09-27 06:08:41"
+  },
+  {
+    "CustomerID": 26599,
+    "ProductID": 852,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-04-05 23:40:38"
+  },
+  {
+    "CustomerID": 19942,
+    "ProductID": 384,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-05-19 18:46:25"
+  },
+  {
+    "CustomerID": 10438,
+    "ProductID": 755,
+    "Rating": 5,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2001-07-27 09:56:38"
+  },
+  {
+    "CustomerID": 5182,
+    "ProductID": 893,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-01-15 07:44:44"
+  },
+  {
+    "CustomerID": 8382,
+    "ProductID": 563,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-08-05 10:26:24"
+  },
+  {
+    "CustomerID": 29154,
+    "ProductID": 190,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-10-29 16:21:37"
+  },
+  {
+    "CustomerID": 11199,
+    "ProductID": 529,
+    "Rating": 2,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-12-05 04:16:11"
+  },
+  {
+    "CustomerID": 7889,
+    "ProductID": 135,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-07-25 21:00:28"
+  },
+  {
+    "CustomerID": 4175,
+    "ProductID": 897,
+    "Rating": 1,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-03-16 16:07:41"
+  },
+  {
+    "CustomerID": 16229,
+    "ProductID": 601,
+    "Rating": 3,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-01-03 18:59:41"
+  },
+  {
+    "CustomerID": 17481,
+    "ProductID": 581,
+    "Rating": 2,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-07-04 14:50:02"
+  },
+  {
+    "CustomerID": 5063,
+    "ProductID": 700,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-09-23 02:41:41"
+  },
+  {
+    "CustomerID": 15723,
+    "ProductID": 594,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-12-11 08:46:41"
+  },
+  {
+    "CustomerID": 8120,
+    "ProductID": 425,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-06-29 22:06:14"
+  },
+  {
+    "CustomerID": 24547,
+    "ProductID": 358,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-10-10 19:22:37"
+  },
+  {
+    "CustomerID": 11986,
+    "ProductID": 109,
+    "Rating": 3,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-07-01 13:09:17"
+  },
+  {
+    "CustomerID": 19084,
+    "ProductID": 431,
+    "Rating": 2,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-08-14 03:01:37"
+  },
+  {
+    "CustomerID": 29160,
+    "ProductID": 908,
+    "Rating": 4,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2001-11-23 22:38:34"
+  },
+  {
+    "CustomerID": 9450,
+    "ProductID": 928,
+    "Rating": 1,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2001-12-11 19:55:16"
+  },
+  {
+    "CustomerID": 21395,
+    "ProductID": 265,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-03-21 12:35:50"
+  },
+  {
+    "CustomerID": 19234,
+    "ProductID": 545,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2004-02-28 09:43:30"
+  },
+  {
+    "CustomerID": 352,
+    "ProductID": 758,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-12-19 20:18:42"
+  },
+  {
+    "CustomerID": 10543,
+    "ProductID": 16,
+    "Rating": 2,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-06-01 03:05:45"
+  },
+  {
+    "CustomerID": 3360,
+    "ProductID": 803,
+    "Rating": 5,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-03-15 21:39:33"
+  },
+  {
+    "CustomerID": 29401,
+    "ProductID": 247,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-10-19 11:07:52"
+  },
+  {
+    "CustomerID": 9744,
+    "ProductID": 187,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2001-07-08 15:05:50"
+  },
+  {
+    "CustomerID": 28002,
+    "ProductID": 19,
+    "Rating": 2,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-07-27 05:26:55"
+  },
+  {
+    "CustomerID": 7981,
+    "ProductID": 593,
+    "Rating": 2,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-04-30 13:13:39"
+  },
+  {
+    "CustomerID": 12191,
+    "ProductID": 215,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-10-14 15:38:41"
+  },
+  {
+    "CustomerID": 16754,
+    "ProductID": 815,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-03-30 08:28:18"
+  },
+  {
+    "CustomerID": 6164,
+    "ProductID": 609,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-03-06 05:22:29"
+  },
+  {
+    "CustomerID": 21789,
+    "ProductID": 94,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-11-06 23:07:23"
+  },
+  {
+    "CustomerID": 21752,
+    "ProductID": 179,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2001-11-22 20:11:09"
+  },
+  {
+    "CustomerID": 14676,
+    "ProductID": 938,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-12-18 12:02:46"
+  },
+  {
+    "CustomerID": 11521,
+    "ProductID": 272,
+    "Rating": 1,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-09-28 23:52:46"
+  },
+  {
+    "CustomerID": 28973,
+    "ProductID": 339,
+    "Rating": 1,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-03-02 21:51:44"
+  },
+  {
+    "CustomerID": 8733,
+    "ProductID": 301,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-07-04 07:13:24"
+  },
+  {
+    "CustomerID": 1272,
+    "ProductID": 129,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2003-01-04 05:19:30"
+  },
+  {
+    "CustomerID": 237,
+    "ProductID": 744,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-09-26 22:27:42"
+  },
+  {
+    "CustomerID": 28096,
+    "ProductID": 138,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2004-02-14 01:26:06"
+  },
+  {
+    "CustomerID": 24135,
+    "ProductID": 709,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-09-01 00:29:08"
+  },
+  {
+    "CustomerID": 24506,
+    "ProductID": 825,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-07-28 11:13:28"
+  },
+  {
+    "CustomerID": 29001,
+    "ProductID": 308,
+    "Rating": 4,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-06-08 05:04:56"
+  },
+  {
+    "CustomerID": 22103,
+    "ProductID": 169,
+    "Rating": 3,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-09-21 18:12:26"
+  },
+  {
+    "CustomerID": 23514,
+    "ProductID": 213,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-05-09 16:56:33"
+  },
+  {
+    "CustomerID": 7223,
+    "ProductID": 524,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-09-14 15:40:48"
+  },
+  {
+    "CustomerID": 1751,
+    "ProductID": 316,
+    "Rating": 5,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2003-09-06 05:39:26"
+  },
+  {
+    "CustomerID": 11654,
+    "ProductID": 283,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-12-12 09:55:11"
+  },
+  {
+    "CustomerID": 25569,
+    "ProductID": 515,
+    "Rating": 4,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2001-07-01 06:44:15"
+  },
+  {
+    "CustomerID": 25512,
+    "ProductID": 44,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-03-20 11:13:44"
+  },
+  {
+    "CustomerID": 17266,
+    "ProductID": 40,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-02-24 16:07:36"
+  },
+  {
+    "CustomerID": 22026,
+    "ProductID": 972,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-05-23 19:59:50"
+  },
+  {
+    "CustomerID": 17194,
+    "ProductID": 192,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-01-29 19:41:10"
+  },
+  {
+    "CustomerID": 7358,
+    "ProductID": 799,
+    "Rating": 3,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-09-15 04:43:26"
+  },
+  {
+    "CustomerID": 11287,
+    "ProductID": 578,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-08-21 12:43:27"
+  },
+  {
+    "CustomerID": 11460,
+    "ProductID": 856,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-03-16 16:49:45"
+  },
+  {
+    "CustomerID": 4923,
+    "ProductID": 617,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2004-05-10 22:12:26"
+  },
+  {
+    "CustomerID": 11768,
+    "ProductID": 866,
+    "Rating": 3,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-09-17 09:20:33"
+  },
+  {
+    "CustomerID": 20127,
+    "ProductID": 293,
+    "Rating": 3,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2004-07-28 14:41:19"
+  },
+  {
+    "CustomerID": 4910,
+    "ProductID": 651,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-06-16 12:39:17"
+  },
+  {
+    "CustomerID": 1827,
+    "ProductID": 222,
+    "Rating": 5,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-01-27 04:47:08"
+  },
+  {
+    "CustomerID": 13913,
+    "ProductID": 19,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-02-04 19:16:01"
+  },
+  {
+    "CustomerID": 17397,
+    "ProductID": 208,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-09-26 11:41:44"
+  },
+  {
+    "CustomerID": 15675,
+    "ProductID": 841,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-05-03 21:05:16"
+  },
+  {
+    "CustomerID": 14231,
+    "ProductID": 733,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-05-03 08:30:14"
+  },
+  {
+    "CustomerID": 14905,
+    "ProductID": 684,
+    "Rating": 5,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-11-24 01:06:43"
+  },
+  {
+    "CustomerID": 10909,
+    "ProductID": 522,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2001-09-30 03:17:57"
+  },
+  {
+    "CustomerID": 18096,
+    "ProductID": 103,
+    "Rating": 5,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-12-23 22:55:17"
+  },
+  {
+    "CustomerID": 16337,
+    "ProductID": 486,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-07-14 02:29:19"
+  },
+  {
+    "CustomerID": 16413,
+    "ProductID": 695,
+    "Rating": 2,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2001-12-14 04:44:23"
+  },
+  {
+    "CustomerID": 22378,
+    "ProductID": 276,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-01-19 03:33:48"
+  },
+  {
+    "CustomerID": 12800,
+    "ProductID": 73,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2004-06-29 00:41:13"
+  },
+  {
+    "CustomerID": 3518,
+    "ProductID": 306,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2001-11-22 19:01:22"
+  },
+  {
+    "CustomerID": 4850,
+    "ProductID": 624,
+    "Rating": 2,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-03-15 07:29:05"
+  },
+  {
+    "CustomerID": 28573,
+    "ProductID": 201,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-12-17 00:16:16"
+  },
+  {
+    "CustomerID": 17998,
+    "ProductID": 208,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-03-05 15:42:09"
+  },
+  {
+    "CustomerID": 170,
+    "ProductID": 769,
+    "Rating": 4,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-01-04 20:25:07"
+  },
+  {
+    "CustomerID": 9019,
+    "ProductID": 283,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-06-17 15:16:55"
+  },
+  {
+    "CustomerID": 2904,
+    "ProductID": 984,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-07-31 14:10:55"
+  },
+  {
+    "CustomerID": 20873,
+    "ProductID": 166,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-06-04 13:49:42"
+  },
+  {
+    "CustomerID": 7760,
+    "ProductID": 318,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-04-21 11:25:09"
+  },
+  {
+    "CustomerID": 11404,
+    "ProductID": 772,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-09-14 23:32:59"
+  },
+  {
+    "CustomerID": 2825,
+    "ProductID": 835,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-06-25 09:41:57"
+  },
+  {
+    "CustomerID": 26786,
+    "ProductID": 704,
+    "Rating": 5,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-05-28 08:04:03"
+  },
+  {
+    "CustomerID": 26293,
+    "ProductID": 337,
+    "Rating": 4,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-07-17 12:10:34"
+  },
+  {
+    "CustomerID": 1883,
+    "ProductID": 331,
+    "Rating": 3,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-04-01 03:16:49"
+  },
+  {
+    "CustomerID": 9733,
+    "ProductID": 290,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-04-10 23:11:20"
+  },
+  {
+    "CustomerID": 9311,
+    "ProductID": 316,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-03-06 23:38:25"
+  },
+  {
+    "CustomerID": 25286,
+    "ProductID": 747,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-05-08 12:10:49"
+  },
+  {
+    "CustomerID": 15004,
+    "ProductID": 359,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-08-06 03:06:05"
+  },
+  {
+    "CustomerID": 6551,
+    "ProductID": 779,
+    "Rating": 5,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-08-05 19:53:38"
+  },
+  {
+    "CustomerID": 5970,
+    "ProductID": 778,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-05-22 00:19:48"
+  },
+  {
+    "CustomerID": 22145,
+    "ProductID": 150,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-06-25 21:50:32"
+  },
+  {
+    "CustomerID": 21053,
+    "ProductID": 559,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-09-18 16:14:33"
+  },
+  {
+    "CustomerID": 728,
+    "ProductID": 901,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-03-05 06:19:07"
+  },
+  {
+    "CustomerID": 5137,
+    "ProductID": 985,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-01-29 12:42:57"
+  },
+  {
+    "CustomerID": 12059,
+    "ProductID": 593,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-07-29 10:34:40"
+  },
+  {
+    "CustomerID": 20441,
+    "ProductID": 895,
+    "Rating": 4,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-09-18 15:20:02"
+  },
+  {
+    "CustomerID": 18079,
+    "ProductID": 246,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-03-29 09:45:26"
+  },
+  {
+    "CustomerID": 20971,
+    "ProductID": 203,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-03-27 08:36:55"
+  },
+  {
+    "CustomerID": 19153,
+    "ProductID": 656,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-03-12 13:12:13"
+  },
+  {
+    "CustomerID": 19267,
+    "ProductID": 166,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-11-04 21:33:55"
+  },
+  {
+    "CustomerID": 12620,
+    "ProductID": 295,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-03-20 11:22:56"
+  },
+  {
+    "CustomerID": 11613,
+    "ProductID": 179,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-05-08 07:25:23"
+  },
+  {
+    "CustomerID": 4873,
+    "ProductID": 351,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-11-03 11:31:44"
+  },
+  {
+    "CustomerID": 21057,
+    "ProductID": 883,
+    "Rating": 3,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2003-12-08 14:18:13"
+  },
+  {
+    "CustomerID": 3597,
+    "ProductID": 659,
+    "Rating": 1,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2001-07-31 06:55:18"
+  },
+  {
+    "CustomerID": 19516,
+    "ProductID": 865,
+    "Rating": 5,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-05-01 23:11:51"
+  },
+  {
+    "CustomerID": 23092,
+    "ProductID": 204,
+    "Rating": 2,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-12-11 02:52:49"
+  },
+  {
+    "CustomerID": 24262,
+    "ProductID": 281,
+    "Rating": 5,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-09-28 05:48:29"
+  },
+  {
+    "CustomerID": 6191,
+    "ProductID": 610,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-05-15 22:29:48"
+  },
+  {
+    "CustomerID": 13600,
+    "ProductID": 493,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-12-31 19:09:21"
+  },
+  {
+    "CustomerID": 19334,
+    "ProductID": 469,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-08-03 20:50:40"
+  },
+  {
+    "CustomerID": 8801,
+    "ProductID": 492,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2004-03-25 04:06:02"
+  },
+  {
+    "CustomerID": 22111,
+    "ProductID": 38,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-08-21 19:08:52"
+  },
+  {
+    "CustomerID": 21746,
+    "ProductID": 289,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-09-05 11:09:24"
+  },
+  {
+    "CustomerID": 6141,
+    "ProductID": 259,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-07-13 18:26:16"
+  },
+  {
+    "CustomerID": 22927,
+    "ProductID": 565,
+    "Rating": 3,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-09-16 17:47:23"
+  },
+  {
+    "CustomerID": 21943,
+    "ProductID": 546,
+    "Rating": 4,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-11-17 12:37:28"
+  },
+  {
+    "CustomerID": 10199,
+    "ProductID": 668,
+    "Rating": 5,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2001-08-12 15:34:21"
+  },
+  {
+    "CustomerID": 3279,
+    "ProductID": 504,
+    "Rating": 4,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-06-07 07:21:11"
+  },
+  {
+    "CustomerID": 3556,
+    "ProductID": 846,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-12-21 18:14:19"
+  },
+  {
+    "CustomerID": 3484,
+    "ProductID": 907,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-05-29 16:55:23"
+  },
+  {
+    "CustomerID": 9952,
+    "ProductID": 356,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-09-20 11:21:59"
+  },
+  {
+    "CustomerID": 20090,
+    "ProductID": 780,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-11-10 10:37:29"
+  },
+  {
+    "CustomerID": 14304,
+    "ProductID": 253,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-09-20 23:49:59"
+  },
+  {
+    "CustomerID": 11428,
+    "ProductID": 827,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-10-22 05:26:28"
+  },
+  {
+    "CustomerID": 22059,
+    "ProductID": 584,
+    "Rating": 2,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2004-07-26 17:22:03"
+  },
+  {
+    "CustomerID": 7881,
+    "ProductID": 22,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-07-31 06:59:47"
+  },
+  {
+    "CustomerID": 18965,
+    "ProductID": 230,
+    "Rating": 4,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-02-27 20:44:29"
+  },
+  {
+    "CustomerID": 1951,
+    "ProductID": 849,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-04-14 12:30:47"
+  },
+  {
+    "CustomerID": 24481,
+    "ProductID": 917,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-03-20 18:31:58"
+  },
+  {
+    "CustomerID": 12788,
+    "ProductID": 520,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-11-17 00:06:08"
+  },
+  {
+    "CustomerID": 163,
+    "ProductID": 361,
+    "Rating": 1,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-02-27 20:23:37"
+  },
+  {
+    "CustomerID": 27061,
+    "ProductID": 988,
+    "Rating": 3,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-01-03 16:03:01"
+  },
+  {
+    "CustomerID": 17559,
+    "ProductID": 348,
+    "Rating": 2,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2001-10-26 17:04:33"
+  },
+  {
+    "CustomerID": 9549,
+    "ProductID": 124,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2001-10-31 08:15:09"
+  },
+  {
+    "CustomerID": 25274,
+    "ProductID": 563,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-06-18 10:52:11"
+  },
+  {
+    "CustomerID": 8802,
+    "ProductID": 41,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-07-14 02:28:25"
+  },
+  {
+    "CustomerID": 10369,
+    "ProductID": 799,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-11-17 07:15:50"
+  },
+  {
+    "CustomerID": 1888,
+    "ProductID": 778,
+    "Rating": 4,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-05-07 01:12:11"
+  },
+  {
+    "CustomerID": 24358,
+    "ProductID": 136,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-05-21 23:47:19"
+  },
+  {
+    "CustomerID": 20097,
+    "ProductID": 292,
+    "Rating": 2,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-03-02 12:38:44"
+  },
+  {
+    "CustomerID": 8366,
+    "ProductID": 159,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-11-09 06:35:07"
+  },
+  {
+    "CustomerID": 1194,
+    "ProductID": 363,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2004-05-08 01:01:14"
+  },
+  {
+    "CustomerID": 21023,
+    "ProductID": 442,
+    "Rating": 3,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-10-04 13:24:01"
+  },
+  {
+    "CustomerID": 2775,
+    "ProductID": 111,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-03-08 10:57:18"
+  },
+  {
+    "CustomerID": 15308,
+    "ProductID": 238,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-07-19 17:40:38"
+  },
+  {
+    "CustomerID": 592,
+    "ProductID": 992,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-07-01 08:36:38"
+  },
+  {
+    "CustomerID": 23846,
+    "ProductID": 941,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-01-24 04:47:14"
+  },
+  {
+    "CustomerID": 12301,
+    "ProductID": 177,
+    "Rating": 5,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-08-25 04:14:15"
+  },
+  {
+    "CustomerID": 17668,
+    "ProductID": 509,
+    "Rating": 5,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2001-08-18 15:27:10"
+  },
+  {
+    "CustomerID": 14795,
+    "ProductID": 49,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-11-29 16:42:15"
+  },
+  {
+    "CustomerID": 22033,
+    "ProductID": 192,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-08-18 09:55:52"
+  },
+  {
+    "CustomerID": 15352,
+    "ProductID": 97,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-07-01 15:39:06"
+  },
+  {
+    "CustomerID": 18418,
+    "ProductID": 909,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-11-28 20:44:18"
+  },
+  {
+    "CustomerID": 25780,
+    "ProductID": 426,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-05-13 11:08:43"
+  },
+  {
+    "CustomerID": 20375,
+    "ProductID": 572,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-06-09 08:33:39"
+  },
+  {
+    "CustomerID": 26531,
+    "ProductID": 785,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-01-31 19:51:58"
+  },
+  {
+    "CustomerID": 1639,
+    "ProductID": 115,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-05-29 18:20:52"
+  },
+  {
+    "CustomerID": 11350,
+    "ProductID": 373,
+    "Rating": 4,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-03-31 18:00:16"
+  },
+  {
+    "CustomerID": 21208,
+    "ProductID": 636,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-04-27 23:21:09"
+  },
+  {
+    "CustomerID": 15777,
+    "ProductID": 167,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-06-25 21:28:12"
+  },
+  {
+    "CustomerID": 26591,
+    "ProductID": 524,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-10-25 22:00:52"
+  },
+  {
+    "CustomerID": 4368,
+    "ProductID": 201,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-09-17 09:04:18"
+  },
+  {
+    "CustomerID": 12469,
+    "ProductID": 677,
+    "Rating": 4,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-09-23 18:26:31"
+  },
+  {
+    "CustomerID": 1855,
+    "ProductID": 672,
+    "Rating": 2,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-09-06 16:24:20"
+  },
+  {
+    "CustomerID": 16355,
+    "ProductID": 173,
+    "Rating": 5,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-05-21 14:05:01"
+  },
+  {
+    "CustomerID": 10081,
+    "ProductID": 871,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-02-17 07:19:21"
+  },
+  {
+    "CustomerID": 10595,
+    "ProductID": 855,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-11-10 16:16:51"
+  },
+  {
+    "CustomerID": 27095,
+    "ProductID": 547,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-06-03 14:04:21"
+  },
+  {
+    "CustomerID": 25869,
+    "ProductID": 123,
+    "Rating": 2,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2001-10-30 17:14:02"
+  },
+  {
+    "CustomerID": 5919,
+    "ProductID": 347,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-01-21 16:06:01"
+  },
+  {
+    "CustomerID": 1202,
+    "ProductID": 299,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2003-09-28 07:08:17"
+  },
+  {
+    "CustomerID": 3886,
+    "ProductID": 724,
+    "Rating": 1,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-09-08 08:09:03"
+  },
+  {
+    "CustomerID": 3327,
+    "ProductID": 508,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-01-13 14:10:02"
+  },
+  {
+    "CustomerID": 3398,
+    "ProductID": 264,
+    "Rating": 4,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2001-10-27 04:15:18"
+  },
+  {
+    "CustomerID": 18331,
+    "ProductID": 676,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2001-12-19 08:35:36"
+  },
+  {
+    "CustomerID": 3468,
+    "ProductID": 98,
+    "Rating": 4,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-04-27 06:30:05"
+  },
+  {
+    "CustomerID": 7820,
+    "ProductID": 531,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-02-06 03:11:54"
+  },
+  {
+    "CustomerID": 26987,
+    "ProductID": 861,
+    "Rating": 4,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-08-03 10:14:28"
+  },
+  {
+    "CustomerID": 23890,
+    "ProductID": 446,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-10-10 07:32:54"
+  },
+  {
+    "CustomerID": 1611,
+    "ProductID": 785,
+    "Rating": 1,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2003-01-02 00:30:35"
+  },
+  {
+    "CustomerID": 17694,
+    "ProductID": 238,
+    "Rating": 2,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-11-14 22:03:49"
+  },
+  {
+    "CustomerID": 10587,
+    "ProductID": 885,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-09-06 01:33:25"
+  },
+  {
+    "CustomerID": 20564,
+    "ProductID": 64,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-01-31 14:48:29"
+  },
+  {
+    "CustomerID": 22387,
+    "ProductID": 739,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-08-10 15:28:05"
+  },
+  {
+    "CustomerID": 18638,
+    "ProductID": 517,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-07-03 05:37:58"
+  },
+  {
+    "CustomerID": 15034,
+    "ProductID": 363,
+    "Rating": 2,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-05-21 08:16:51"
+  },
+  {
+    "CustomerID": 17953,
+    "ProductID": 195,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-11-25 12:11:21"
+  },
+  {
+    "CustomerID": 11258,
+    "ProductID": 859,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-08-26 21:16:59"
+  },
+  {
+    "CustomerID": 19117,
+    "ProductID": 166,
+    "Rating": 4,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2003-03-22 14:13:30"
+  },
+  {
+    "CustomerID": 9941,
+    "ProductID": 124,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-06-29 09:41:01"
+  },
+  {
+    "CustomerID": 698,
+    "ProductID": 28,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-11-02 06:44:53"
+  },
+  {
+    "CustomerID": 3996,
+    "ProductID": 710,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-09-10 22:44:19"
+  },
+  {
+    "CustomerID": 6724,
+    "ProductID": 995,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-11-09 18:46:54"
+  },
+  {
+    "CustomerID": 28898,
+    "ProductID": 218,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2001-09-05 05:27:26"
+  },
+  {
+    "CustomerID": 13397,
+    "ProductID": 497,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-04-06 00:32:56"
+  },
+  {
+    "CustomerID": 24975,
+    "ProductID": 884,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-06-25 13:17:51"
+  },
+  {
+    "CustomerID": 22392,
+    "ProductID": 869,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-06-02 13:40:47"
+  },
+  {
+    "CustomerID": 16079,
+    "ProductID": 7,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-09-04 06:32:32"
+  },
+  {
+    "CustomerID": 20811,
+    "ProductID": 993,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-10-07 08:26:04"
+  },
+  {
+    "CustomerID": 6515,
+    "ProductID": 145,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-09-13 10:17:00"
+  },
+  {
+    "CustomerID": 21950,
+    "ProductID": 970,
+    "Rating": 2,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-05-16 20:02:09"
+  },
+  {
+    "CustomerID": 5380,
+    "ProductID": 716,
+    "Rating": 3,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-01-16 10:58:35"
+  },
+  {
+    "CustomerID": 25531,
+    "ProductID": 144,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-01-25 05:14:07"
+  },
+  {
+    "CustomerID": 21664,
+    "ProductID": 294,
+    "Rating": 2,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-08-19 01:21:30"
+  },
+  {
+    "CustomerID": 10954,
+    "ProductID": 824,
+    "Rating": 5,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-12-15 05:03:06"
+  },
+  {
+    "CustomerID": 22584,
+    "ProductID": 569,
+    "Rating": 1,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2001-08-13 07:43:03"
+  },
+  {
+    "CustomerID": 6304,
+    "ProductID": 928,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-06-01 09:07:50"
+  },
+  {
+    "CustomerID": 7186,
+    "ProductID": 642,
+    "Rating": 5,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-01-02 14:58:54"
+  },
+  {
+    "CustomerID": 10256,
+    "ProductID": 585,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2003-07-30 15:41:56"
+  },
+  {
+    "CustomerID": 3996,
+    "ProductID": 494,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-12-29 06:50:12"
+  },
+  {
+    "CustomerID": 16221,
+    "ProductID": 732,
+    "Rating": 2,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-11-08 08:06:26"
+  },
+  {
+    "CustomerID": 27991,
+    "ProductID": 318,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-07-09 02:37:40"
+  },
+  {
+    "CustomerID": 23065,
+    "ProductID": 558,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-11-24 00:21:41"
+  },
+  {
+    "CustomerID": 13622,
+    "ProductID": 858,
+    "Rating": 5,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2001-11-07 04:43:13"
+  },
+  {
+    "CustomerID": 17978,
+    "ProductID": 117,
+    "Rating": 3,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-02-21 12:04:59"
+  },
+  {
+    "CustomerID": 15683,
+    "ProductID": 682,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-07-19 05:39:36"
+  },
+  {
+    "CustomerID": 27418,
+    "ProductID": 668,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-05-01 12:49:12"
+  },
+  {
+    "CustomerID": 28266,
+    "ProductID": 162,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-08-08 23:39:21"
+  },
+  {
+    "CustomerID": 20978,
+    "ProductID": 559,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-09-06 22:12:01"
+  },
+  {
+    "CustomerID": 13719,
+    "ProductID": 993,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2001-07-02 12:11:47"
+  },
+  {
+    "CustomerID": 17409,
+    "ProductID": 550,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-03-20 15:04:01"
+  },
+  {
+    "CustomerID": 28916,
+    "ProductID": 405,
+    "Rating": 2,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2001-07-31 16:18:05"
+  },
+  {
+    "CustomerID": 6434,
+    "ProductID": 537,
+    "Rating": 5,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-07-28 18:42:58"
+  },
+  {
+    "CustomerID": 22304,
+    "ProductID": 102,
+    "Rating": 3,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2003-10-20 14:54:38"
+  },
+  {
+    "CustomerID": 2894,
+    "ProductID": 791,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-03-11 11:27:39"
+  },
+  {
+    "CustomerID": 15438,
+    "ProductID": 314,
+    "Rating": 2,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-01-29 15:18:24"
+  },
+  {
+    "CustomerID": 17060,
+    "ProductID": 815,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-10-30 00:59:31"
+  },
+  {
+    "CustomerID": 5460,
+    "ProductID": 210,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-02-10 14:07:21"
+  },
+  {
+    "CustomerID": 18649,
+    "ProductID": 538,
+    "Rating": 2,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2003-08-03 17:50:06"
+  },
+  {
+    "CustomerID": 23522,
+    "ProductID": 912,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-02-04 04:21:04"
+  },
+  {
+    "CustomerID": 20227,
+    "ProductID": 734,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-09-03 04:40:32"
+  },
+  {
+    "CustomerID": 9436,
+    "ProductID": 999,
+    "Rating": 5,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2001-11-09 03:10:47"
+  },
+  {
+    "CustomerID": 1164,
+    "ProductID": 638,
+    "Rating": 4,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-12-10 20:27:05"
+  },
+  {
+    "CustomerID": 22689,
+    "ProductID": 603,
+    "Rating": 1,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-07-19 05:28:55"
+  },
+  {
+    "CustomerID": 3347,
+    "ProductID": 827,
+    "Rating": 4,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2001-10-06 00:49:55"
+  },
+  {
+    "CustomerID": 10004,
+    "ProductID": 512,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-09-04 11:02:51"
+  },
+  {
+    "CustomerID": 23560,
+    "ProductID": 986,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-06-06 01:50:03"
+  },
+  {
+    "CustomerID": 27106,
+    "ProductID": 217,
+    "Rating": 3,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-08-19 08:52:02"
+  },
+  {
+    "CustomerID": 27936,
+    "ProductID": 910,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-10-27 07:58:54"
+  },
+  {
+    "CustomerID": 13396,
+    "ProductID": 959,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-01-15 13:41:42"
+  },
+  {
+    "CustomerID": 25348,
+    "ProductID": 699,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-09-06 09:15:57"
+  },
+  {
+    "CustomerID": 1450,
+    "ProductID": 130,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2004-06-04 03:40:42"
+  },
+  {
+    "CustomerID": 8549,
+    "ProductID": 208,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-09-29 16:58:39"
+  },
+  {
+    "CustomerID": 23323,
+    "ProductID": 615,
+    "Rating": 5,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-10-26 08:09:55"
+  },
+  {
+    "CustomerID": 3834,
+    "ProductID": 227,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-11-25 08:33:15"
+  },
+  {
+    "CustomerID": 23156,
+    "ProductID": 155,
+    "Rating": 3,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-08-15 15:07:06"
+  },
+  {
+    "CustomerID": 1440,
+    "ProductID": 502,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-04-10 13:02:28"
+  },
+  {
+    "CustomerID": 7618,
+    "ProductID": 974,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-12-03 16:09:06"
+  },
+  {
+    "CustomerID": 24433,
+    "ProductID": 794,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-12-03 03:44:52"
+  },
+  {
+    "CustomerID": 3633,
+    "ProductID": 998,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-12-03 04:26:04"
+  },
+  {
+    "CustomerID": 14041,
+    "ProductID": 384,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-07-17 23:32:08"
+  },
+  {
+    "CustomerID": 4203,
+    "ProductID": 418,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-04-27 01:31:13"
+  },
+  {
+    "CustomerID": 6196,
+    "ProductID": 777,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2003-05-16 06:54:20"
+  },
+  {
+    "CustomerID": 5558,
+    "ProductID": 39,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-01-17 06:06:20"
+  },
+  {
+    "CustomerID": 14927,
+    "ProductID": 701,
+    "Rating": 1,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2004-01-28 16:32:30"
+  },
+  {
+    "CustomerID": 8398,
+    "ProductID": 535,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-06-04 10:28:42"
+  },
+  {
+    "CustomerID": 6551,
+    "ProductID": 366,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-12-02 21:58:06"
+  },
+  {
+    "CustomerID": 29190,
+    "ProductID": 574,
+    "Rating": 2,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-06-26 23:23:38"
+  },
+  {
+    "CustomerID": 20740,
+    "ProductID": 596,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-08-14 15:22:14"
+  },
+  {
+    "CustomerID": 28858,
+    "ProductID": 675,
+    "Rating": 2,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-03-20 03:46:18"
+  },
+  {
+    "CustomerID": 2035,
+    "ProductID": 331,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-01-13 13:09:49"
+  },
+  {
+    "CustomerID": 6781,
+    "ProductID": 760,
+    "Rating": 1,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-12-30 07:24:46"
+  },
+  {
+    "CustomerID": 16381,
+    "ProductID": 186,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-12-28 04:40:30"
+  },
+  {
+    "CustomerID": 12580,
+    "ProductID": 263,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-10-09 02:12:49"
+  },
+  {
+    "CustomerID": 23414,
+    "ProductID": 794,
+    "Rating": 4,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2001-09-02 14:44:11"
+  },
+  {
+    "CustomerID": 19698,
+    "ProductID": 130,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-04-19 08:56:49"
+  },
+  {
+    "CustomerID": 11933,
+    "ProductID": 905,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-10-25 03:04:09"
+  },
+  {
+    "CustomerID": 7214,
+    "ProductID": 130,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-08-28 09:36:07"
+  },
+  {
+    "CustomerID": 27310,
+    "ProductID": 642,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-10-25 09:38:23"
+  },
+  {
+    "CustomerID": 15284,
+    "ProductID": 251,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-02-18 00:20:56"
+  },
+  {
+    "CustomerID": 29289,
+    "ProductID": 443,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2001-07-01 10:18:34"
+  },
+  {
+    "CustomerID": 27053,
+    "ProductID": 809,
+    "Rating": 5,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-03-26 03:46:34"
+  },
+  {
+    "CustomerID": 7393,
+    "ProductID": 380,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-03-11 15:17:43"
+  },
+  {
+    "CustomerID": 21785,
+    "ProductID": 894,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-04-16 08:54:57"
+  },
+  {
+    "CustomerID": 21801,
+    "ProductID": 172,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-08-19 15:49:14"
+  },
+  {
+    "CustomerID": 881,
+    "ProductID": 184,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-06-27 22:04:26"
+  },
+  {
+    "CustomerID": 13643,
+    "ProductID": 50,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-01-15 21:17:11"
+  },
+  {
+    "CustomerID": 10954,
+    "ProductID": 914,
+    "Rating": 4,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-12-05 14:59:07"
+  },
+  {
+    "CustomerID": 9124,
+    "ProductID": 804,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-08-04 14:17:22"
+  },
+  {
+    "CustomerID": 2006,
+    "ProductID": 17,
+    "Rating": 2,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2004-05-12 00:06:42"
+  },
+  {
+    "CustomerID": 20712,
+    "ProductID": 10,
+    "Rating": 4,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-09-18 07:08:51"
+  },
+  {
+    "CustomerID": 11064,
+    "ProductID": 666,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-05-05 16:09:24"
+  },
+  {
+    "CustomerID": 1483,
+    "ProductID": 302,
+    "Rating": 2,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-06-27 23:02:51"
+  },
+  {
+    "CustomerID": 5932,
+    "ProductID": 706,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-06-03 17:10:21"
+  },
+  {
+    "CustomerID": 10603,
+    "ProductID": 527,
+    "Rating": 4,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-12-13 19:07:40"
+  },
+  {
+    "CustomerID": 8815,
+    "ProductID": 666,
+    "Rating": 1,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-12-31 05:24:09"
+  },
+  {
+    "CustomerID": 28913,
+    "ProductID": 487,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-03-27 07:27:17"
+  },
+  {
+    "CustomerID": 14931,
+    "ProductID": 975,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-06-05 18:11:27"
+  },
+  {
+    "CustomerID": 11648,
+    "ProductID": 180,
+    "Rating": 5,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-10-17 22:06:49"
+  },
+  {
+    "CustomerID": 2694,
+    "ProductID": 495,
+    "Rating": 2,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2004-01-05 00:16:20"
+  },
+  {
+    "CustomerID": 13318,
+    "ProductID": 639,
+    "Rating": 5,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2003-01-18 14:32:06"
+  },
+  {
+    "CustomerID": 28713,
+    "ProductID": 286,
+    "Rating": 4,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2004-02-23 18:18:24"
+  },
+  {
+    "CustomerID": 27065,
+    "ProductID": 294,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-02-26 03:52:06"
+  },
+  {
+    "CustomerID": 1572,
+    "ProductID": 367,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2004-06-30 05:13:40"
+  },
+  {
+    "CustomerID": 8611,
+    "ProductID": 557,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-07-29 22:34:07"
+  },
+  {
+    "CustomerID": 19742,
+    "ProductID": 104,
+    "Rating": 1,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-04-03 07:48:37"
+  },
+  {
+    "CustomerID": 812,
+    "ProductID": 440,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-08-22 09:15:39"
+  },
+  {
+    "CustomerID": 931,
+    "ProductID": 581,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-05-15 13:06:14"
+  },
+  {
+    "CustomerID": 10481,
+    "ProductID": 500,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-11-19 17:19:17"
+  },
+  {
+    "CustomerID": 7361,
+    "ProductID": 408,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-10-31 19:39:21"
+  },
+  {
+    "CustomerID": 25312,
+    "ProductID": 158,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-05-25 15:02:59"
+  },
+  {
+    "CustomerID": 15631,
+    "ProductID": 744,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-07-18 08:06:27"
+  },
+  {
+    "CustomerID": 18721,
+    "ProductID": 498,
+    "Rating": 3,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-09-28 15:46:03"
+  },
+  {
+    "CustomerID": 10750,
+    "ProductID": 926,
+    "Rating": 4,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-06-03 20:07:46"
+  },
+  {
+    "CustomerID": 26043,
+    "ProductID": 852,
+    "Rating": 5,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-08-13 00:30:47"
+  },
+  {
+    "CustomerID": 14703,
+    "ProductID": 619,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-03-17 11:11:30"
+  },
+  {
+    "CustomerID": 20966,
+    "ProductID": 514,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-08-24 21:05:51"
+  },
+  {
+    "CustomerID": 3880,
+    "ProductID": 559,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2002-09-19 12:05:44"
+  },
+  {
+    "CustomerID": 26209,
+    "ProductID": 689,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2003-08-24 15:48:08"
+  },
+  {
+    "CustomerID": 20200,
+    "ProductID": 779,
+    "Rating": 1,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-04-16 14:01:22"
+  },
+  {
+    "CustomerID": 13087,
+    "ProductID": 950,
+    "Rating": 2,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-03-09 06:25:08"
+  },
+  {
+    "CustomerID": 5472,
+    "ProductID": 978,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-08-26 13:56:57"
+  },
+  {
+    "CustomerID": 20672,
+    "ProductID": 382,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2004-01-19 10:24:43"
+  },
+  {
+    "CustomerID": 21768,
+    "ProductID": 39,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-06-02 11:41:11"
+  },
+  {
+    "CustomerID": 17043,
+    "ProductID": 496,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-10-29 10:49:56"
+  },
+  {
+    "CustomerID": 21852,
+    "ProductID": 202,
+    "Rating": 4,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-12-11 08:38:51"
+  },
+  {
+    "CustomerID": 15002,
+    "ProductID": 614,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2004-04-13 19:23:23"
+  },
+  {
+    "CustomerID": 3756,
+    "ProductID": 220,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2001-11-07 21:30:47"
+  },
+  {
+    "CustomerID": 11843,
+    "ProductID": 853,
+    "Rating": 2,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-01-08 21:32:57"
+  },
+  {
+    "CustomerID": 24654,
+    "ProductID": 464,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-11-04 11:25:01"
+  },
+  {
+    "CustomerID": 4315,
+    "ProductID": 955,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-01-31 17:38:23"
+  },
+  {
+    "CustomerID": 2735,
+    "ProductID": 861,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-11-08 16:56:40"
+  },
+  {
+    "CustomerID": 2020,
+    "ProductID": 783,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-07-06 05:16:18"
+  },
+  {
+    "CustomerID": 10388,
+    "ProductID": 521,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-02-21 04:53:09"
+  },
+  {
+    "CustomerID": 26746,
+    "ProductID": 375,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-11-04 03:58:43"
+  },
+  {
+    "CustomerID": 27638,
+    "ProductID": 12,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-08-23 02:37:17"
+  },
+  {
+    "CustomerID": 7984,
+    "ProductID": 481,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2004-01-30 09:22:19"
+  },
+  {
+    "CustomerID": 11534,
+    "ProductID": 695,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-09-02 05:08:50"
+  },
+  {
+    "CustomerID": 27744,
+    "ProductID": 10,
+    "Rating": 4,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-07-01 20:25:51"
+  },
+  {
+    "CustomerID": 10965,
+    "ProductID": 572,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-01-22 10:12:41"
+  },
+  {
+    "CustomerID": 6577,
+    "ProductID": 201,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-11-01 09:01:19"
+  },
+  {
+    "CustomerID": 19504,
+    "ProductID": 846,
+    "Rating": 4,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2002-02-02 12:28:48"
+  },
+  {
+    "CustomerID": 20224,
+    "ProductID": 820,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2001-07-19 05:16:45"
+  },
+  {
+    "CustomerID": 16373,
+    "ProductID": 429,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-07-25 02:58:04"
+  },
+  {
+    "CustomerID": 25315,
+    "ProductID": 303,
+    "Rating": 3,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-05-18 19:57:42"
+  },
+  {
+    "CustomerID": 21920,
+    "ProductID": 402,
+    "Rating": 2,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-07-17 05:45:30"
+  },
+  {
+    "CustomerID": 16851,
+    "ProductID": 6,
+    "Rating": 4,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-04-24 19:06:25"
+  },
+  {
+    "CustomerID": 11862,
+    "ProductID": 75,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-04-04 10:52:11"
+  },
+  {
+    "CustomerID": 26720,
+    "ProductID": 985,
+    "Rating": 3,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-07-19 16:18:15"
+  },
+  {
+    "CustomerID": 9524,
+    "ProductID": 616,
+    "Rating": 3,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-07-09 14:39:59"
+  },
+  {
+    "CustomerID": 29163,
+    "ProductID": 736,
+    "Rating": 5,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-03-31 14:57:55"
+  },
+  {
+    "CustomerID": 26290,
+    "ProductID": 16,
+    "Rating": 5,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-10-26 09:14:24"
+  },
+  {
+    "CustomerID": 27164,
+    "ProductID": 489,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-12-16 18:20:40"
+  },
+  {
+    "CustomerID": 8583,
+    "ProductID": 211,
+    "Rating": 2,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-06-28 19:06:50"
+  },
+  {
+    "CustomerID": 18330,
+    "ProductID": 466,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-03-30 06:14:04"
+  },
+  {
+    "CustomerID": 12760,
+    "ProductID": 908,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-02-08 14:51:29"
+  },
+  {
+    "CustomerID": 18662,
+    "ProductID": 395,
+    "Rating": 4,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-11-09 20:42:33"
+  },
+  {
+    "CustomerID": 12129,
+    "ProductID": 935,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-05-13 05:21:16"
+  },
+  {
+    "CustomerID": 22968,
+    "ProductID": 774,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2001-11-26 01:49:14"
+  },
+  {
+    "CustomerID": 26663,
+    "ProductID": 816,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-01-13 09:23:49"
+  },
+  {
+    "CustomerID": 22674,
+    "ProductID": 196,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-08-29 10:08:51"
+  },
+  {
+    "CustomerID": 20482,
+    "ProductID": 321,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-01-05 12:16:48"
+  },
+  {
+    "CustomerID": 460,
+    "ProductID": 279,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-04-16 10:42:38"
+  },
+  {
+    "CustomerID": 23008,
+    "ProductID": 942,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-12-21 17:49:37"
+  },
+  {
+    "CustomerID": 27749,
+    "ProductID": 811,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-04-28 04:34:50"
+  },
+  {
+    "CustomerID": 26472,
+    "ProductID": 966,
+    "Rating": 5,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-11-06 00:58:00"
+  },
+  {
+    "CustomerID": 28593,
+    "ProductID": 589,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-04-30 02:56:34"
+  },
+  {
+    "CustomerID": 26860,
+    "ProductID": 671,
+    "Rating": 3,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-07-23 11:37:10"
+  },
+  {
+    "CustomerID": 22720,
+    "ProductID": 33,
+    "Rating": 3,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-01-08 01:54:11"
+  },
+  {
+    "CustomerID": 25244,
+    "ProductID": 621,
+    "Rating": 4,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-06-28 13:43:45"
+  },
+  {
+    "CustomerID": 245,
+    "ProductID": 761,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2001-12-01 08:01:23"
+  },
+  {
+    "CustomerID": 11838,
+    "ProductID": 299,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-10-09 17:10:38"
+  },
+  {
+    "CustomerID": 27724,
+    "ProductID": 362,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-02-09 21:57:41"
+  },
+  {
+    "CustomerID": 5782,
+    "ProductID": 902,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2003-06-03 08:07:59"
+  },
+  {
+    "CustomerID": 29052,
+    "ProductID": 987,
+    "Rating": 3,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2004-03-22 07:07:17"
+  },
+  {
+    "CustomerID": 21031,
+    "ProductID": 916,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-10-19 00:27:47"
+  },
+  {
+    "CustomerID": 21054,
+    "ProductID": 547,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-06-13 14:11:12"
+  },
+  {
+    "CustomerID": 11776,
+    "ProductID": 859,
+    "Rating": 1,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-04-19 19:23:16"
+  },
+  {
+    "CustomerID": 6654,
+    "ProductID": 213,
+    "Rating": 3,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2001-08-02 01:07:04"
+  },
+  {
+    "CustomerID": 27279,
+    "ProductID": 252,
+    "Rating": 2,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2001-07-26 01:21:52"
+  },
+  {
+    "CustomerID": 22263,
+    "ProductID": 479,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-01-04 10:16:19"
+  },
+  {
+    "CustomerID": 17138,
+    "ProductID": 967,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2004-06-09 02:18:00"
+  },
+  {
+    "CustomerID": 29000,
+    "ProductID": 969,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2002-09-10 11:04:03"
+  },
+  {
+    "CustomerID": 1351,
+    "ProductID": 286,
+    "Rating": 2,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-02-10 05:17:54"
+  },
+  {
+    "CustomerID": 17010,
+    "ProductID": 469,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-10-08 04:56:25"
+  },
+  {
+    "CustomerID": 17293,
+    "ProductID": 827,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2001-12-19 02:45:05"
+  },
+  {
+    "CustomerID": 29148,
+    "ProductID": 239,
+    "Rating": 1,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-06-28 00:54:12"
+  },
+  {
+    "CustomerID": 20839,
+    "ProductID": 143,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-02-22 00:41:31"
+  },
+  {
+    "CustomerID": 18523,
+    "ProductID": 377,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-06-10 18:07:50"
+  },
+  {
+    "CustomerID": 11374,
+    "ProductID": 71,
+    "Rating": 1,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-10-01 22:12:57"
+  },
+  {
+    "CustomerID": 26511,
+    "ProductID": 589,
+    "Rating": 5,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-04-08 18:05:41"
+  },
+  {
+    "CustomerID": 26053,
+    "ProductID": 953,
+    "Rating": 1,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2001-11-24 14:48:24"
+  },
+  {
+    "CustomerID": 15294,
+    "ProductID": 475,
+    "Rating": 4,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2004-04-10 22:54:37"
+  },
+  {
+    "CustomerID": 9729,
+    "ProductID": 520,
+    "Rating": 5,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-02-22 12:30:56"
+  },
+  {
+    "CustomerID": 24329,
+    "ProductID": 155,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-01-19 09:43:22"
+  },
+  {
+    "CustomerID": 10911,
+    "ProductID": 458,
+    "Rating": 5,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-08-31 22:49:21"
+  },
+  {
+    "CustomerID": 5984,
+    "ProductID": 738,
+    "Rating": 1,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-12-11 16:04:47"
+  },
+  {
+    "CustomerID": 24972,
+    "ProductID": 111,
+    "Rating": 2,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-01-09 06:01:08"
+  },
+  {
+    "CustomerID": 29017,
+    "ProductID": 156,
+    "Rating": 1,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2002-01-11 06:31:49"
+  },
+  {
+    "CustomerID": 18833,
+    "ProductID": 193,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2002-07-05 00:58:56"
+  },
+  {
+    "CustomerID": 20189,
+    "ProductID": 570,
+    "Rating": 3,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2004-04-13 13:31:47"
+  },
+  {
+    "CustomerID": 24570,
+    "ProductID": 161,
+    "Rating": 4,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-07-06 05:39:26"
+  },
+  {
+    "CustomerID": 17589,
+    "ProductID": 522,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-09-11 00:16:53"
+  },
+  {
+    "CustomerID": 14082,
+    "ProductID": 571,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2004-03-14 11:00:07"
+  },
+  {
+    "CustomerID": 3890,
+    "ProductID": 204,
+    "Rating": 3,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-12-13 04:35:30"
+  },
+  {
+    "CustomerID": 11352,
+    "ProductID": 927,
+    "Rating": 3,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-04-24 08:13:36"
+  },
+  {
+    "CustomerID": 20665,
+    "ProductID": 695,
+    "Rating": 5,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-10-09 04:30:27"
+  },
+  {
+    "CustomerID": 2391,
+    "ProductID": 907,
+    "Rating": 1,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-06-08 13:12:37"
+  },
+  {
+    "CustomerID": 2769,
+    "ProductID": 847,
+    "Rating": 5,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-05-21 13:18:42"
+  },
+  {
+    "CustomerID": 14953,
+    "ProductID": 94,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-11-26 21:22:05"
+  },
+  {
+    "CustomerID": 29194,
+    "ProductID": 879,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-10-07 14:21:14"
+  },
+  {
+    "CustomerID": 18645,
+    "ProductID": 812,
+    "Rating": 3,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2002-11-10 19:07:56"
+  },
+  {
+    "CustomerID": 25319,
+    "ProductID": 416,
+    "Rating": 2,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-07-18 17:29:09"
+  },
+  {
+    "CustomerID": 2044,
+    "ProductID": 817,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-07-08 07:28:25"
+  },
+  {
+    "CustomerID": 16307,
+    "ProductID": 918,
+    "Rating": 1,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-01-29 09:59:02"
+  },
+  {
+    "CustomerID": 23912,
+    "ProductID": 493,
+    "Rating": 4,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-07-19 05:31:50"
+  },
+  {
+    "CustomerID": 6295,
+    "ProductID": 673,
+    "Rating": 2,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2001-07-02 23:20:11"
+  },
+  {
+    "CustomerID": 964,
+    "ProductID": 714,
+    "Rating": 5,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2004-07-30 07:02:46"
+  },
+  {
+    "CustomerID": 15577,
+    "ProductID": 598,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-11-30 17:14:50"
+  },
+  {
+    "CustomerID": 5217,
+    "ProductID": 712,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-01-21 05:46:26"
+  },
+  {
+    "CustomerID": 20604,
+    "ProductID": 181,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-10-31 04:12:18"
+  },
+  {
+    "CustomerID": 28161,
+    "ProductID": 20,
+    "Rating": 3,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-08-14 07:14:30"
+  },
+  {
+    "CustomerID": 8825,
+    "ProductID": 564,
+    "Rating": 5,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2002-11-24 01:57:50"
+  },
+  {
+    "CustomerID": 16277,
+    "ProductID": 967,
+    "Rating": 2,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-03-11 15:17:31"
+  },
+  {
+    "CustomerID": 5225,
+    "ProductID": 758,
+    "Rating": 5,
+    "Comment": "Love this bike! Smooth ride and great value.",
+    "DatePosted": "2002-09-19 01:08:43"
+  },
+  {
+    "CustomerID": 15513,
+    "ProductID": 564,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2001-07-08 10:40:47"
+  },
+  {
+    "CustomerID": 9318,
+    "ProductID": 112,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2003-06-04 15:29:36"
+  },
+  {
+    "CustomerID": 12245,
+    "ProductID": 966,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2001-07-19 16:17:24"
+  },
+  {
+    "CustomerID": 10339,
+    "ProductID": 180,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-09-06 10:29:59"
+  },
+  {
+    "CustomerID": 3325,
+    "ProductID": 324,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-07-20 21:11:55"
+  },
+  {
+    "CustomerID": 13852,
+    "ProductID": 927,
+    "Rating": 4,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2001-09-06 09:22:00"
+  },
+  {
+    "CustomerID": 4244,
+    "ProductID": 366,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-09-17 00:42:44"
+  },
+  {
+    "CustomerID": 7281,
+    "ProductID": 475,
+    "Rating": 1,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-09-07 15:10:20"
+  },
+  {
+    "CustomerID": 2228,
+    "ProductID": 268,
+    "Rating": 4,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-09-05 15:27:47"
+  },
+  {
+    "CustomerID": 14783,
+    "ProductID": 897,
+    "Rating": 1,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-07-11 05:11:14"
+  },
+  {
+    "CustomerID": 4269,
+    "ProductID": 482,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-12-24 15:24:00"
+  },
+  {
+    "CustomerID": 24751,
+    "ProductID": 751,
+    "Rating": 2,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-03-15 12:04:56"
+  },
+  {
+    "CustomerID": 18475,
+    "ProductID": 642,
+    "Rating": 3,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-07-04 09:39:43"
+  },
+  {
+    "CustomerID": 21338,
+    "ProductID": 491,
+    "Rating": 3,
+    "Comment": "Worth every penny\u2014rides like a dream!",
+    "DatePosted": "2001-09-25 14:15:15"
+  },
+  {
+    "CustomerID": 12300,
+    "ProductID": 430,
+    "Rating": 2,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2001-12-17 07:38:18"
+  },
+  {
+    "CustomerID": 1225,
+    "ProductID": 530,
+    "Rating": 2,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-11-14 09:21:00"
+  },
+  {
+    "CustomerID": 28985,
+    "ProductID": 765,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-12-16 00:42:51"
+  },
+  {
+    "CustomerID": 25051,
+    "ProductID": 782,
+    "Rating": 2,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2004-06-11 11:35:16"
+  },
+  {
+    "CustomerID": 12406,
+    "ProductID": 58,
+    "Rating": 2,
+    "Comment": "Comfortable shorts, great for long-distance cycling.",
+    "DatePosted": "2003-08-07 04:09:47"
+  },
+  {
+    "CustomerID": 9742,
+    "ProductID": 101,
+    "Rating": 5,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2003-03-09 03:59:31"
+  },
+  {
+    "CustomerID": 16089,
+    "ProductID": 66,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-09-27 20:54:05"
+  },
+  {
+    "CustomerID": 10495,
+    "ProductID": 750,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-12-16 15:43:27"
+  },
+  {
+    "CustomerID": 5638,
+    "ProductID": 805,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-05-23 09:32:16"
+  },
+  {
+    "CustomerID": 1740,
+    "ProductID": 535,
+    "Rating": 2,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-08-07 05:12:44"
+  },
+  {
+    "CustomerID": 11289,
+    "ProductID": 253,
+    "Rating": 4,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-11-26 12:54:02"
+  },
+  {
+    "CustomerID": 2272,
+    "ProductID": 877,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2004-05-06 05:58:09"
+  },
+  {
+    "CustomerID": 10223,
+    "ProductID": 444,
+    "Rating": 1,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-04-27 06:30:21"
+  },
+  {
+    "CustomerID": 2842,
+    "ProductID": 662,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2004-06-10 10:35:33"
+  },
+  {
+    "CustomerID": 1821,
+    "ProductID": 534,
+    "Rating": 1,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2004-02-29 12:24:53"
+  },
+  {
+    "CustomerID": 6183,
+    "ProductID": 635,
+    "Rating": 1,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-12-02 22:19:20"
+  },
+  {
+    "CustomerID": 21439,
+    "ProductID": 578,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2002-11-21 01:48:14"
+  },
+  {
+    "CustomerID": 22975,
+    "ProductID": 73,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-08-11 12:14:16"
+  },
+  {
+    "CustomerID": 13496,
+    "ProductID": 522,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-04-23 03:51:07"
+  },
+  {
+    "CustomerID": 16619,
+    "ProductID": 683,
+    "Rating": 3,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2002-09-25 17:19:10"
+  },
+  {
+    "CustomerID": 20917,
+    "ProductID": 580,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2003-06-26 23:08:23"
+  },
+  {
+    "CustomerID": 21243,
+    "ProductID": 354,
+    "Rating": 3,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-11-10 06:45:56"
+  },
+  {
+    "CustomerID": 8547,
+    "ProductID": 296,
+    "Rating": 5,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-05-22 23:20:05"
+  },
+  {
+    "CustomerID": 22651,
+    "ProductID": 593,
+    "Rating": 4,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-09-03 11:29:28"
+  },
+  {
+    "CustomerID": 14455,
+    "ProductID": 881,
+    "Rating": 4,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-11-07 07:40:05"
+  },
+  {
+    "CustomerID": 27380,
+    "ProductID": 258,
+    "Rating": 1,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-12-10 14:37:10"
+  },
+  {
+    "CustomerID": 15559,
+    "ProductID": 609,
+    "Rating": 4,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-05-30 13:58:48"
+  },
+  {
+    "CustomerID": 29374,
+    "ProductID": 163,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-03-23 09:21:28"
+  },
+  {
+    "CustomerID": 6715,
+    "ProductID": 843,
+    "Rating": 3,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-09-26 09:55:39"
+  },
+  {
+    "CustomerID": 5468,
+    "ProductID": 135,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-04-08 21:46:51"
+  },
+  {
+    "CustomerID": 25887,
+    "ProductID": 547,
+    "Rating": 1,
+    "Comment": "Lightweight and stylish, very happy with this helmet.",
+    "DatePosted": "2003-08-15 06:24:46"
+  },
+  {
+    "CustomerID": 20717,
+    "ProductID": 29,
+    "Rating": 2,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2001-12-23 15:02:34"
+  },
+  {
+    "CustomerID": 3444,
+    "ProductID": 756,
+    "Rating": 1,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2003-04-07 01:42:55"
+  },
+  {
+    "CustomerID": 12031,
+    "ProductID": 490,
+    "Rating": 3,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2002-02-16 08:22:30"
+  },
+  {
+    "CustomerID": 23123,
+    "ProductID": 455,
+    "Rating": 3,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-09-24 05:36:12"
+  },
+  {
+    "CustomerID": 6156,
+    "ProductID": 397,
+    "Rating": 3,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2004-02-15 17:31:58"
+  },
+  {
+    "CustomerID": 6764,
+    "ProductID": 368,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-07-15 06:04:43"
+  },
+  {
+    "CustomerID": 20486,
+    "ProductID": 36,
+    "Rating": 2,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-03-28 15:43:38"
+  },
+  {
+    "CustomerID": 19633,
+    "ProductID": 980,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2001-09-18 15:42:58"
+  },
+  {
+    "CustomerID": 19936,
+    "ProductID": 483,
+    "Rating": 4,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-09-25 13:20:14"
+  },
+  {
+    "CustomerID": 17122,
+    "ProductID": 115,
+    "Rating": 3,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-04-24 02:13:39"
+  },
+  {
+    "CustomerID": 9989,
+    "ProductID": 46,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-07-26 16:45:51"
+  },
+  {
+    "CustomerID": 28369,
+    "ProductID": 303,
+    "Rating": 4,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2004-05-27 01:36:50"
+  },
+  {
+    "CustomerID": 26143,
+    "ProductID": 286,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2003-12-20 15:41:46"
+  },
+  {
+    "CustomerID": 18379,
+    "ProductID": 722,
+    "Rating": 1,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2003-08-06 03:38:59"
+  },
+  {
+    "CustomerID": 9319,
+    "ProductID": 490,
+    "Rating": 4,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2002-08-10 20:30:11"
+  },
+  {
+    "CustomerID": 2545,
+    "ProductID": 830,
+    "Rating": 5,
+    "Comment": "Jersey fabric is breathable and fits perfectly.",
+    "DatePosted": "2002-04-13 10:45:11"
+  },
+  {
+    "CustomerID": 4795,
+    "ProductID": 749,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2004-03-26 01:11:18"
+  },
+  {
+    "CustomerID": 1695,
+    "ProductID": 295,
+    "Rating": 1,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2004-06-11 10:11:09"
+  },
+  {
+    "CustomerID": 6334,
+    "ProductID": 360,
+    "Rating": 1,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2002-02-24 21:45:41"
+  },
+  {
+    "CustomerID": 6600,
+    "ProductID": 57,
+    "Rating": 4,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2001-09-08 13:07:41"
+  },
+  {
+    "CustomerID": 3799,
+    "ProductID": 932,
+    "Rating": 3,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2002-03-30 09:41:11"
+  },
+  {
+    "CustomerID": 1526,
+    "ProductID": 428,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-12-16 09:26:28"
+  },
+  {
+    "CustomerID": 26956,
+    "ProductID": 305,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-09-26 05:07:34"
+  },
+  {
+    "CustomerID": 22493,
+    "ProductID": 643,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-12-27 23:43:20"
+  },
+  {
+    "CustomerID": 25261,
+    "ProductID": 178,
+    "Rating": 3,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2001-10-15 16:27:14"
+  },
+  {
+    "CustomerID": 18340,
+    "ProductID": 844,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-09-26 09:34:18"
+  },
+  {
+    "CustomerID": 3415,
+    "ProductID": 861,
+    "Rating": 3,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2003-10-29 15:56:15"
+  },
+  {
+    "CustomerID": 22586,
+    "ProductID": 245,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-11-24 01:05:10"
+  },
+  {
+    "CustomerID": 8078,
+    "ProductID": 932,
+    "Rating": 4,
+    "Comment": "Excellent safety rating and looks sleek.",
+    "DatePosted": "2001-12-29 19:27:19"
+  },
+  {
+    "CustomerID": 15202,
+    "ProductID": 661,
+    "Rating": 4,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2004-07-28 19:48:12"
+  },
+  {
+    "CustomerID": 21396,
+    "ProductID": 129,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2004-07-05 22:57:24"
+  },
+  {
+    "CustomerID": 17949,
+    "ProductID": 283,
+    "Rating": 1,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2001-09-18 18:14:30"
+  },
+  {
+    "CustomerID": 13998,
+    "ProductID": 714,
+    "Rating": 3,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2004-05-09 01:28:14"
+  },
+  {
+    "CustomerID": 5446,
+    "ProductID": 897,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-04-09 22:36:30"
+  },
+  {
+    "CustomerID": 28038,
+    "ProductID": 156,
+    "Rating": 5,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-09-19 08:38:53"
+  },
+  {
+    "CustomerID": 17043,
+    "ProductID": 468,
+    "Rating": 4,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2001-09-26 20:18:34"
+  },
+  {
+    "CustomerID": 21919,
+    "ProductID": 522,
+    "Rating": 2,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-08-05 09:28:52"
+  },
+  {
+    "CustomerID": 9152,
+    "ProductID": 299,
+    "Rating": 4,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2002-04-16 07:41:27"
+  },
+  {
+    "CustomerID": 19251,
+    "ProductID": 8,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2003-10-12 14:16:07"
+  },
+  {
+    "CustomerID": 15139,
+    "ProductID": 319,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2001-11-12 19:59:29"
+  },
+  {
+    "CustomerID": 21701,
+    "ProductID": 463,
+    "Rating": 5,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-12-09 12:56:11"
+  },
+  {
+    "CustomerID": 4363,
+    "ProductID": 217,
+    "Rating": 5,
+    "Comment": "A bit heavy, but handles rough trails beautifully.",
+    "DatePosted": "2001-10-18 02:10:28"
+  },
+  {
+    "CustomerID": 23430,
+    "ProductID": 660,
+    "Rating": 4,
+    "Comment": "Fits comfortably and feels secure on long rides.",
+    "DatePosted": "2004-02-16 13:30:26"
+  },
+  {
+    "CustomerID": 22187,
+    "ProductID": 951,
+    "Rating": 2,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2003-09-09 08:02:16"
+  },
+  {
+    "CustomerID": 3459,
+    "ProductID": 864,
+    "Rating": 1,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2001-10-30 21:07:27"
+  },
+  {
+    "CustomerID": 13643,
+    "ProductID": 1,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2002-08-01 22:59:18"
+  },
+  {
+    "CustomerID": 25627,
+    "ProductID": 527,
+    "Rating": 4,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-11-07 11:11:53"
+  },
+  {
+    "CustomerID": 2458,
+    "ProductID": 272,
+    "Rating": 3,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2003-04-11 23:15:26"
+  },
+  {
+    "CustomerID": 27083,
+    "ProductID": 258,
+    "Rating": 5,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-09-14 13:22:26"
+  },
+  {
+    "CustomerID": 3981,
+    "ProductID": 716,
+    "Rating": 2,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2004-07-19 10:40:26"
+  },
+  {
+    "CustomerID": 25230,
+    "ProductID": 616,
+    "Rating": 4,
+    "Comment": "Pedals grip well, even in wet conditions.",
+    "DatePosted": "2001-12-23 16:15:06"
+  },
+  {
+    "CustomerID": 18721,
+    "ProductID": 600,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-11-20 20:21:06"
+  },
+  {
+    "CustomerID": 1609,
+    "ProductID": 185,
+    "Rating": 4,
+    "Comment": "Padding could be thicker, but overall decent.",
+    "DatePosted": "2003-05-28 23:25:51"
+  },
+  {
+    "CustomerID": 20964,
+    "ProductID": 776,
+    "Rating": 5,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2003-06-05 09:33:46"
+  },
+  {
+    "CustomerID": 21042,
+    "ProductID": 614,
+    "Rating": 2,
+    "Comment": "The bottle cage holds tight and looks good.",
+    "DatePosted": "2002-07-27 08:25:25"
+  },
+  {
+    "CustomerID": 27748,
+    "ProductID": 759,
+    "Rating": 1,
+    "Comment": "Color faded a bit after washing, but still comfortable.",
+    "DatePosted": "2004-04-22 07:14:55"
+  },
+  {
+    "CustomerID": 28406,
+    "ProductID": 62,
+    "Rating": 3,
+    "Comment": "Replaced my old crankset\u2014huge improvement.",
+    "DatePosted": "2001-08-27 19:09:56"
+  },
+  {
+    "CustomerID": 6654,
+    "ProductID": 748,
+    "Rating": 5,
+    "Comment": "Brakes are responsive and easy to install.",
+    "DatePosted": "2002-02-24 20:48:07"
+  },
+  {
+    "CustomerID": 20257,
+    "ProductID": 950,
+    "Rating": 4,
+    "Comment": "Chain oil does its job, but packaging leaks slightly.",
+    "DatePosted": "2002-08-16 00:28:24"
+  },
+  {
+    "CustomerID": 26318,
+    "ProductID": 694,
+    "Rating": 1,
+    "Comment": "Had to adjust the gears, but otherwise fantastic.",
+    "DatePosted": "2002-08-05 07:03:36"
+  },
+  {
+    "CustomerID": 20056,
+    "ProductID": 38,
+    "Rating": 5,
+    "Comment": "Cycling gloves are comfortable and durable.",
+    "DatePosted": "2003-07-03 17:59:02"
+  },
+  {
+    "CustomerID": 22113,
+    "ProductID": 388,
+    "Rating": 2,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-02-12 03:22:24"
+  },
+  {
+    "CustomerID": 27631,
+    "ProductID": 40,
+    "Rating": 4,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2003-09-06 15:09:31"
+  },
+  {
+    "CustomerID": 24209,
+    "ProductID": 265,
+    "Rating": 3,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2003-11-21 08:47:03"
+  },
+  {
+    "CustomerID": 11727,
+    "ProductID": 439,
+    "Rating": 4,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2002-05-04 13:49:36"
+  },
+  {
+    "CustomerID": 28699,
+    "ProductID": 837,
+    "Rating": 1,
+    "Comment": "Good helmet but ventilation could be better.",
+    "DatePosted": "2004-06-05 13:08:02"
+  },
+  {
+    "CustomerID": 5241,
+    "ProductID": 378,
+    "Rating": 4,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-12-27 01:43:30"
+  },
+  {
+    "CustomerID": 7706,
+    "ProductID": 851,
+    "Rating": 3,
+    "Comment": "Material feels premium and doesn\u2019t chafe at all.",
+    "DatePosted": "2002-10-09 16:56:29"
+  },
+  {
+    "CustomerID": 26711,
+    "ProductID": 961,
+    "Rating": 5,
+    "Comment": "Pump works great\u2014compact and powerful.",
+    "DatePosted": "2002-07-27 01:45:54"
+  },
+  {
+    "CustomerID": 3032,
+    "ProductID": 52,
+    "Rating": 5,
+    "Comment": "Great set of lights, very bright and easy to mount.",
+    "DatePosted": "2001-10-25 11:48:10"
+  },
+  {
+    "CustomerID": 4840,
+    "ProductID": 146,
+    "Rating": 3,
+    "Comment": "Good quality chain, smooth shifting so far.",
+    "DatePosted": "2001-07-09 04:43:35"
+  },
+  {
+    "CustomerID": 1603,
+    "ProductID": 115,
+    "Rating": 2,
+    "Comment": "Frame quality is top-notch, perfect for weekend rides.",
+    "DatePosted": "2002-12-19 19:49:42"
+  },
+  {
+    "CustomerID": 27190,
+    "ProductID": 312,
+    "Rating": 3,
+    "Comment": "Handlebars have excellent ergonomics.",
+    "DatePosted": "2003-04-29 11:42:47"
+  },
+  {
+    "CustomerID": 14586,
+    "ProductID": 923,
+    "Rating": 4,
+    "Comment": "Stylish and functional\u2014love the reflective stripes.",
+    "DatePosted": "2003-08-26 10:40:04"
+  }
+]
